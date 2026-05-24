@@ -1,0 +1,255 @@
+{
+  "day": 46,
+  "words": [
+    {
+      "id": 1,
+      "word": "sincerely",
+      "meaning": "[부] 진심으로"
+    },
+    {
+      "id": 2,
+      "word": "fairly",
+      "meaning": "[부] ① 상당히, 꽤 ② 공평하게"
+    },
+    {
+      "id": 3,
+      "word": "subscription",
+      "meaning": "[명] ① 예약, 구독(료) ② 기부(금)"
+    },
+    {
+      "id": 4,
+      "word": "infrastructure",
+      "meaning": "[명] 사회 기반 시설"
+    },
+    {
+      "id": 5,
+      "word": "sanitation",
+      "meaning": "[명] 공중위생, 위생 설비"
+    },
+    {
+      "id": 6,
+      "word": "naturereserve",
+      "meaning": "자연 보호구역"
+    },
+    {
+      "id": 7,
+      "word": "high-profile",
+      "meaning": "[형] 유명한, 세간의 이목을 끄는"
+    },
+    {
+      "id": 8,
+      "word": "floorplan",
+      "meaning": "① 평면도 ② 층별 안내도"
+    },
+    {
+      "id": 9,
+      "word": "defective",
+      "meaning": "[형] 결함이 있는\n[명] 불량품"
+    },
+    {
+      "id": 10,
+      "word": "network",
+      "meaning": "[동] 인적 네트워크를 형성하다\n[명] 망"
+    },
+    {
+      "id": 11,
+      "word": "publicfigure",
+      "meaning": "[명] 유명 인사, 공인"
+    },
+    {
+      "id": 12,
+      "word": "signupfor",
+      "meaning": "-을 신청하다"
+    },
+    {
+      "id": 13,
+      "word": "warehouse",
+      "meaning": "[명] 창고, 저장소"
+    },
+    {
+      "id": 14,
+      "word": "tailored",
+      "meaning": "[형] 맞춤의, 주문 제작의"
+    },
+    {
+      "id": 15,
+      "word": "stunning",
+      "meaning": "[형] 놀랄 만큼 멋진, 훌륭한"
+    },
+    {
+      "id": 16,
+      "word": "departure",
+      "meaning": "[명] 출발, 떠남"
+    },
+    {
+      "id": 17,
+      "word": "automotive",
+      "meaning": "[형] 자동차의"
+    },
+    {
+      "id": 18,
+      "word": "pharmacist",
+      "meaning": "[명] 약사"
+    },
+    {
+      "id": 19,
+      "word": "overheat",
+      "meaning": "[동] 과열하다, 과열되다\n[명] ① 과열 ② 지나친 흥분"
+    },
+    {
+      "id": 20,
+      "word": "forward",
+      "meaning": "[동] 보내다, 전달하다"
+    },
+    {
+      "id": 21,
+      "word": "ventilation",
+      "meaning": "[명] ① 환기 ② 환기 장치"
+    },
+    {
+      "id": 22,
+      "word": "courier",
+      "meaning": "[명] 택배 회사, 택배 배달원"
+    },
+    {
+      "id": 23,
+      "word": "officesupplies",
+      "meaning": "사무용품"
+    },
+    {
+      "id": 24,
+      "word": "unauthorized\nentrance",
+      "meaning": "무단출입"
+    },
+    {
+      "id": 25,
+      "word": "dispatch",
+      "meaning": "[동] ① 파견하다 ② 보내다, 발송하다\n③ 신속히 해치우다\n[명] 파견, 발송"
+    },
+    {
+      "id": 26,
+      "word": "self-employed",
+      "meaning": "[형] 자영업을 하는"
+    },
+    {
+      "id": 27,
+      "word": "complex",
+      "meaning": "[명] 복합 건물, (건물) 단지\n[형] ① 복합의 ② 복잡한"
+    },
+    {
+      "id": 28,
+      "word": "household",
+      "meaning": "[명] 가구\n[형] 가정의, 가족의"
+    },
+    {
+      "id": 29,
+      "word": "domestic",
+      "meaning": "[형] ① 국내의 ② 가정의"
+    },
+    {
+      "id": 30,
+      "word": "roundtrip",
+      "meaning": "왕복 여행"
+    },
+    {
+      "id": 31,
+      "word": "state-of-the-art",
+      "meaning": "[형] 최첨단의, 최신식의"
+    },
+    {
+      "id": 32,
+      "word": "overcrowding",
+      "meaning": "[명] 과밀, 혼잡"
+    },
+    {
+      "id": 33,
+      "word": "ship",
+      "meaning": "[동] 보내다, 발송하다"
+    },
+    {
+      "id": 34,
+      "word": "customized",
+      "meaning": "[형] 주문 제작의, 맞춤의"
+    },
+    {
+      "id": 35,
+      "word": "wilderness",
+      "meaning": "[명] 황야, 황무지"
+    },
+    {
+      "id": 36,
+      "word": "wearandtear",
+      "meaning": "마모, 손상"
+    },
+    {
+      "id": 37,
+      "word": "tothisend",
+      "meaning": "이 목적을 위해"
+    },
+    {
+      "id": 38,
+      "word": "retailer",
+      "meaning": "[명] ① 소매상인 ② 소매점"
+    },
+    {
+      "id": 39,
+      "word": "on-callsecurity\nspecialist",
+      "meaning": "당직 보안 전문가"
+    },
+    {
+      "id": 40,
+      "word": "up-to-date",
+      "meaning": "[형] ① 최신의 ② 최신식의"
+    },
+    {
+      "id": 41,
+      "word": "biased",
+      "meaning": "[형] 치우친, 편견을 가진"
+    },
+    {
+      "id": 42,
+      "word": "litter",
+      "meaning": "[동] 어지르다, 더럽히다\n[명] ① 쓰레기 ② 난잡"
+    },
+    {
+      "id": 43,
+      "word": "cutting-edge",
+      "meaning": "[형] 최첨단의"
+    },
+    {
+      "id": 44,
+      "word": "arrival",
+      "meaning": "[명] 도착"
+    },
+    {
+      "id": 45,
+      "word": "remainder",
+      "meaning": "[명] 나머지"
+    },
+    {
+      "id": 46,
+      "word": "landscaping",
+      "meaning": "[명] 조경"
+    },
+    {
+      "id": 47,
+      "word": "carry-on",
+      "meaning": "[형] 휴대용의, 비행기 내에 들고 갈 수 있는"
+    },
+    {
+      "id": 48,
+      "word": "CC(CarbonCopy)",
+      "meaning": "[명] 참조\n[동] 참조하다"
+    },
+    {
+      "id": 49,
+      "word": "mergersand\nacquisitions(M&A)",
+      "meaning": "기업 인수 합병"
+    },
+    {
+      "id": 50,
+      "word": "product\ndemonstration",
+      "meaning": "제품 시연"
+    }
+  ]
+}

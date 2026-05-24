@@ -1,0 +1,255 @@
+{
+  "day": 43,
+  "words": [
+    {
+      "id": 1,
+      "word": "publicity",
+      "meaning": "[명] ① 매스컴의 관심, 주목 ② 홍보"
+    },
+    {
+      "id": 2,
+      "word": "track",
+      "meaning": "[동] 추적하다\n[명] ① 궤도, 경로 ② 기록"
+    },
+    {
+      "id": 3,
+      "word": "given",
+      "meaning": "[전] -을 고려해 볼 때"
+    },
+    {
+      "id": 4,
+      "word": "statement",
+      "meaning": "[명] ① 명세서 ② 성명서"
+    },
+    {
+      "id": 5,
+      "word": "setup",
+      "meaning": "[명] ① 구성, 장치, 설치\n② (조직 등의) 기구, 구조, 조직"
+    },
+    {
+      "id": 6,
+      "word": "markedly",
+      "meaning": "[부] 현저하게, 두드러지게"
+    },
+    {
+      "id": 7,
+      "word": "publicofficial",
+      "meaning": "공무원"
+    },
+    {
+      "id": 8,
+      "word": "lease",
+      "meaning": "[동] (부동산·장비 등을) 임대[임차]하다\n[명] 임대차 계약"
+    },
+    {
+      "id": 9,
+      "word": "overview",
+      "meaning": "[명] 개요, 개관"
+    },
+    {
+      "id": 10,
+      "word": "civilservice",
+      "meaning": "[명] ① 공무, 행정 사무, 공무원\n② 공무원 제도"
+    },
+    {
+      "id": 11,
+      "word": "resolution",
+      "meaning": "[명] ① 해상도 ② 해결 ③ 결심, 결정"
+    },
+    {
+      "id": 12,
+      "word": "quota",
+      "meaning": "[명] 몫, 할당량"
+    },
+    {
+      "id": 13,
+      "word": "specializein",
+      "meaning": "-을 전문으로 하다"
+    },
+    {
+      "id": 14,
+      "word": "commence",
+      "meaning": "[동] 시작되다, 시작하다"
+    },
+    {
+      "id": 15,
+      "word": "workforce",
+      "meaning": "[명] ① 노동자, 직원 ② 노동 인구"
+    },
+    {
+      "id": 16,
+      "word": "revision",
+      "meaning": "[명] 수정, 개정"
+    },
+    {
+      "id": 17,
+      "word": "paperwork",
+      "meaning": "[명] 서류 (작업), 문서 업무"
+    },
+    {
+      "id": 18,
+      "word": "expansion",
+      "meaning": "[명] 확장, 확대, 증대"
+    },
+    {
+      "id": 19,
+      "word": "census",
+      "meaning": "[명] 인구 조사"
+    },
+    {
+      "id": 20,
+      "word": "workload",
+      "meaning": "[명] 업무량, 작업량"
+    },
+    {
+      "id": 21,
+      "word": "inventory",
+      "meaning": "[명] ① 재고 조사, 재고 정리 ② 재고(품)"
+    },
+    {
+      "id": 22,
+      "word": "brainstorm",
+      "meaning": "[동] 아이디어를 생각해 내다"
+    },
+    {
+      "id": 23,
+      "word": "directory",
+      "meaning": "[명] ① (이름·주소 등의 관련 정보를 보통\n알파벳순으로 나열한) 안내 책자\n② (컴퓨터의) 디렉터리"
+    },
+    {
+      "id": 24,
+      "word": "credential",
+      "meaning": "[명] ① 신용 증명서, 신임장, 자격 증명서\n② 업적, 경력\n[형] 신용 증명이 되는"
+    },
+    {
+      "id": 25,
+      "word": "file",
+      "meaning": "[동] ① (서류·신청·고소 등을) 정식으로\n제기하다, 제출하다\n② (서류를) 정리하다, 철하다\n[명] 서류"
+    },
+    {
+      "id": 26,
+      "word": "confirmation",
+      "meaning": "[명] 확인(서), 확증"
+    },
+    {
+      "id": 27,
+      "word": "spreadsheet",
+      "meaning": "[명] 스프레드시트, 데이터문서"
+    },
+    {
+      "id": 28,
+      "word": "optimal",
+      "meaning": "[형] 최적의, 최선의"
+    },
+    {
+      "id": 29,
+      "word": "inlightof",
+      "meaning": "-에 비추어, -을 고려하여"
+    },
+    {
+      "id": 30,
+      "word": "documentation",
+      "meaning": "[명] ① 서류 ② 기록, 문서화"
+    },
+    {
+      "id": 31,
+      "word": "demanding",
+      "meaning": "[형] ① 힘든, 버거운 ② 요구가 많은"
+    },
+    {
+      "id": 32,
+      "word": "target",
+      "meaning": "[동] -을 목표로 정하다\n[명] ① 과녁 ② 목표"
+    },
+    {
+      "id": 33,
+      "word": "on-site\ninspection",
+      "meaning": "현장 점검"
+    },
+    {
+      "id": 34,
+      "word": "authorize",
+      "meaning": "[동] 승인하다, 권한을 주다"
+    },
+    {
+      "id": 35,
+      "word": "timekeeping",
+      "meaning": "[명] ① 시간 엄수 ② 시간 기록"
+    },
+    {
+      "id": 36,
+      "word": "offset",
+      "meaning": "[동] 상쇄하다, 보충하다"
+    },
+    {
+      "id": 37,
+      "word": "persistently",
+      "meaning": "[부] 지속적으로, 고집스럽게"
+    },
+    {
+      "id": 38,
+      "word": "periodically",
+      "meaning": "[부] 정기적으로, 주기적으로"
+    },
+    {
+      "id": 39,
+      "word": "pilottest",
+      "meaning": "시범 테스트"
+    },
+    {
+      "id": 40,
+      "word": "proofread",
+      "meaning": "[동] 교정보다"
+    },
+    {
+      "id": 41,
+      "word": "followupwith",
+      "meaning": "-을 덧붙이다"
+    },
+    {
+      "id": 42,
+      "word": "agenda",
+      "meaning": "[명] 의제, 안건"
+    },
+    {
+      "id": 43,
+      "word": "introductory",
+      "meaning": "[형] ① 서두의, 입문의 ② 출시 기념의"
+    },
+    {
+      "id": 44,
+      "word": "focusgroup",
+      "meaning": "포커스 그룹(시장 조사나 여론 조사를 위해\n각 계층을 대표하도록 뽑은 소수의 사람들)"
+    },
+    {
+      "id": 45,
+      "word": "audit",
+      "meaning": "[명] 회계 감사, 심사\n[동] (회계를) 감사하다"
+    },
+    {
+      "id": 46,
+      "word": "overly",
+      "meaning": "[부] 지나치게, 너무"
+    },
+    {
+      "id": 47,
+      "word": "in-depth",
+      "meaning": "[형] 심층적인, 깊이 있는"
+    },
+    {
+      "id": 48,
+      "word": "associated\nmaterials",
+      "meaning": "관련 자료"
+    },
+    {
+      "id": 49,
+      "word": "haveyettoRV",
+      "meaning": "아직 -해야 한다, 아직 -하고 있지 않다"
+    },
+    {
+      "id": 50,
+      "word": "representative",
+      "meaning": "[명] ① 대표자, (정부의) 해외 대표\n② 법률상의 대표자\n[형] ① 상징하는 ② 대표하는"
+    }
+  ]
+}

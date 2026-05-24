@@ -1,0 +1,255 @@
+{
+  "day": 3,
+  "words": [
+    {
+      "id": 1,
+      "word": "compel",
+      "meaning": "[동] 강요[강제]하다, 억지로 -하게 하다"
+    },
+    {
+      "id": 2,
+      "word": "include",
+      "meaning": "[동] 포함하다"
+    },
+    {
+      "id": 3,
+      "word": "perceive",
+      "meaning": "[동] 인지하다, 알아차리다"
+    },
+    {
+      "id": 4,
+      "word": "factual",
+      "meaning": "[형] 사실적인"
+    },
+    {
+      "id": 5,
+      "word": "disclose",
+      "meaning": "[동] 드러내다, 폭로하다"
+    },
+    {
+      "id": 6,
+      "word": "prohibit",
+      "meaning": "[동] ① 금지하다 ② 막다, 방해하다"
+    },
+    {
+      "id": 7,
+      "word": "aspire",
+      "meaning": "[동] 열망하다, 갈망하다 (to)"
+    },
+    {
+      "id": 8,
+      "word": "obtain",
+      "meaning": "[동] 얻다, 획득하다"
+    },
+    {
+      "id": 9,
+      "word": "presume",
+      "meaning": "[동] 추정하다, 간주하다"
+    },
+    {
+      "id": 10,
+      "word": "expire",
+      "meaning": "[동] 만료되다"
+    },
+    {
+      "id": 11,
+      "word": "conclude",
+      "meaning": "[동] ① 결론짓다, 끝내다\n② 결정하다, 결심하다"
+    },
+    {
+      "id": 12,
+      "word": "retain",
+      "meaning": "[동] 유지하다, 보유하다"
+    },
+    {
+      "id": 13,
+      "word": "propel",
+      "meaning": "[동] 추진하다, 나아가게 하다"
+    },
+    {
+      "id": 14,
+      "word": "deceive",
+      "meaning": "[동] 속이다, 기만하다"
+    },
+    {
+      "id": 15,
+      "word": "spirit",
+      "meaning": "[명] ① 영혼, 정신 ② 기운, 활기"
+    },
+    {
+      "id": 16,
+      "word": "intercept",
+      "meaning": "[동] ① 가로채다 ② 가로막다"
+    },
+    {
+      "id": 17,
+      "word": "contain",
+      "meaning": "[동] ① 포함하다, 함유하다\n② 억제하다, 억누르다"
+    },
+    {
+      "id": 18,
+      "word": "enclose",
+      "meaning": "[동] ① 동봉하다 ② 에워싸다"
+    },
+    {
+      "id": 19,
+      "word": "facilitate",
+      "meaning": "[동] 쉽게[용이하게] 하다, 촉진시키다"
+    },
+    {
+      "id": 20,
+      "word": "respire",
+      "meaning": "[동] 호흡하다, 숨 쉬다"
+    },
+    {
+      "id": 21,
+      "word": "sufficient",
+      "meaning": "[형] 충분한"
+    },
+    {
+      "id": 22,
+      "word": "expel",
+      "meaning": "[동] 쫓아내다, 추방하다"
+    },
+    {
+      "id": 23,
+      "word": "sustain",
+      "meaning": "[동] ① 떠받치다, 지탱하다\n② 유지하다, 지속하다"
+    },
+    {
+      "id": 24,
+      "word": "inspire",
+      "meaning": "[동] ① (감정·생각을) 불어넣다, 영감을 주다\n② 고무[격려]하다"
+    },
+    {
+      "id": 25,
+      "word": "exhibit",
+      "meaning": "[동] ① 전시하다, 진열하다\n② 나타내다, 드러내다\n[명] ① 전시품 ② 전시(회)"
+    },
+    {
+      "id": 26,
+      "word": "inhibit",
+      "meaning": "[동] ① 억제하다 ② 금지하다"
+    },
+    {
+      "id": 27,
+      "word": "resume",
+      "meaning": "[동] 다시 시작하다, 재개하다\n[명] 이력서"
+    },
+    {
+      "id": 28,
+      "word": "conspire",
+      "meaning": "[동] 공모하다, 음모를 꾸미다"
+    },
+    {
+      "id": 29,
+      "word": "infect",
+      "meaning": "[동] ① 감염[전염]시키다 ② 오염시키다"
+    },
+    {
+      "id": 30,
+      "word": "facility",
+      "meaning": "[명] ① 시설, 설비, 기관[보통 pl.]\n② 편의, 손쉬움"
+    },
+    {
+      "id": 31,
+      "word": "pulse",
+      "meaning": "[명] 맥박\n[동] 맥박이 뛰다"
+    },
+    {
+      "id": 32,
+      "word": "allude",
+      "meaning": "[동] ① 암시하다 ② 언급하다"
+    },
+    {
+      "id": 33,
+      "word": "tenant",
+      "meaning": "[명] 세입자, 소작인\n[동] 세 들어 살다, 소작하다"
+    },
+    {
+      "id": 34,
+      "word": "habitat",
+      "meaning": "[명] ① 서식지 ② 거주 장소"
+    },
+    {
+      "id": 35,
+      "word": "impulse",
+      "meaning": "[명] ① 충동, 자극 ② 추진(력)"
+    },
+    {
+      "id": 36,
+      "word": "illusion",
+      "meaning": "[명] ① 환상, 환각 ② 착각, 오해"
+    },
+    {
+      "id": 37,
+      "word": "consume",
+      "meaning": "[동] ① 소비하다, 소모하다 ② 먹다, 마시다"
+    },
+    {
+      "id": 38,
+      "word": "abstain",
+      "meaning": "[동] 삼가다, 자제하다 (from)"
+    },
+    {
+      "id": 39,
+      "word": "elude",
+      "meaning": "[동] 교묘히 피하다, 빠져나오다"
+    },
+    {
+      "id": 40,
+      "word": "conceive",
+      "meaning": "[동] ① 생각해 내다, 상상하다 ② 임신하다"
+    },
+    {
+      "id": 41,
+      "word": "susceptible",
+      "meaning": "[형] ① 영향 받기 쉬운, 민감한\n② (병에) 걸리기 쉬운"
+    },
+    {
+      "id": 42,
+      "word": "delude",
+      "meaning": "[동] 속이다"
+    },
+    {
+      "id": 43,
+      "word": "participate",
+      "meaning": "[동] 참가하다, 참여하다 (in)"
+    },
+    {
+      "id": 44,
+      "word": "inhabit",
+      "meaning": "[동] 살다, 거주하다"
+    },
+    {
+      "id": 45,
+      "word": "proficient",
+      "meaning": "[형] 능숙한, 숙련된"
+    },
+    {
+      "id": 46,
+      "word": "deficient",
+      "meaning": "[형] ① 부족한 ② 결함이 있는"
+    },
+    {
+      "id": 47,
+      "word": "exclude",
+      "meaning": "[동] ① 제외[배제]하다 ② 거부하다, 막다, 차단하다\n③ 내쫓다, 추방하다"
+    },
+    {
+      "id": 48,
+      "word": "rehabilitate",
+      "meaning": "[동] ① 사회에 복귀시키다\n② 회복시키다, 복원하다"
+    },
+    {
+      "id": 49,
+      "word": "impel",
+      "meaning": "[동] ① 강요하다, 억지로 –하게 하다\n② 추진하다, 나아가게 하다"
+    },
+    {
+      "id": 50,
+      "word": "assume",
+      "meaning": "[동] ① 가정하다, 추정하다\n② (떠)맡다, (책임을) 지다\n③ (태도를) 취하다, (양상을) 띠다\n④ -인 체하다, 가장하다"
+    }
+  ]
+}

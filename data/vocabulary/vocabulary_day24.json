@@ -1,0 +1,255 @@
+{
+  "day": 24,
+  "words": [
+    {
+      "id": 1,
+      "word": "rampant",
+      "meaning": "[형] 만연하는, 유행하는"
+    },
+    {
+      "id": 2,
+      "word": "relieve",
+      "meaning": "[동] ① 완화시키다, 덜다\n② 구원하다, 구조하다"
+    },
+    {
+      "id": 3,
+      "word": "abide",
+      "meaning": "[동] ① 머무르다, 살다 (in)\n② 지키다, 따르다 (by) ③ 참다"
+    },
+    {
+      "id": 4,
+      "word": "pardon",
+      "meaning": "[동] 용서하다\n[명] 용서, 사면"
+    },
+    {
+      "id": 5,
+      "word": "drawback",
+      "meaning": "[명] 결점, 문제점"
+    },
+    {
+      "id": 6,
+      "word": "populate",
+      "meaning": "[동] ① (-에) 살다, 거주하다 ② 거주시키다"
+    },
+    {
+      "id": 7,
+      "word": "deserve",
+      "meaning": "[동] -을 받을 만하다, -할 가치가 있다"
+    },
+    {
+      "id": 8,
+      "word": "onset",
+      "meaning": "[명] ① 시작, 착수 ② 습격, 공격 ③ 발병"
+    },
+    {
+      "id": 9,
+      "word": "brevity",
+      "meaning": "[명] 간결함, 순간"
+    },
+    {
+      "id": 10,
+      "word": "alleviate",
+      "meaning": "[동] 완화시키다, 덜다"
+    },
+    {
+      "id": 11,
+      "word": "apology",
+      "meaning": "[명] 사과"
+    },
+    {
+      "id": 12,
+      "word": "prolong",
+      "meaning": "[동] 늘이다, 연장하다"
+    },
+    {
+      "id": 13,
+      "word": "operate",
+      "meaning": "[동] ① 일하다, 작동하다 ② 수술하다 (on)"
+    },
+    {
+      "id": 14,
+      "word": "terse",
+      "meaning": "[형] 간결한"
+    },
+    {
+      "id": 15,
+      "word": "barrier",
+      "meaning": "[명] 장벽, 장애물, 울타리"
+    },
+    {
+      "id": 16,
+      "word": "dwell",
+      "meaning": "[동] 살다, 거주하다"
+    },
+    {
+      "id": 17,
+      "word": "elongate",
+      "meaning": "[동] 늘이다, 연장하다"
+    },
+    {
+      "id": 18,
+      "word": "pervasive",
+      "meaning": "[형] 만연한, 스며드는"
+    },
+    {
+      "id": 19,
+      "word": "condense",
+      "meaning": "[동] ① 농축[응축]시키다 ② 요약하다"
+    },
+    {
+      "id": 20,
+      "word": "epidemic",
+      "meaning": "[명] 전염병, 유행병\n[형] 유행성의, 널리 퍼져 있는"
+    },
+    {
+      "id": 21,
+      "word": "abbreviate",
+      "meaning": "[동] ① 요약[축약]하다 ② 단축하다"
+    },
+    {
+      "id": 22,
+      "word": "tedious",
+      "meaning": "[형] 지루한"
+    },
+    {
+      "id": 23,
+      "word": "categorize",
+      "meaning": "[동] 분류하다, 범주에 넣다"
+    },
+    {
+      "id": 24,
+      "word": "prevail",
+      "meaning": "[동] ① 만연하다 ② 우세하다, 이기다"
+    },
+    {
+      "id": 25,
+      "word": "label",
+      "meaning": "[명] 상표, 표시\n[동] ① 라벨[꼬리표]을 붙이다\n② 분류하다, (-라고) 부르다 (as)"
+    },
+    {
+      "id": 26,
+      "word": "launch",
+      "meaning": "[동] ① 시작[착수]하다 ② 출시하다\n③ 발사하다"
+    },
+    {
+      "id": 27,
+      "word": "soothe",
+      "meaning": "[동] 달래다, 진정시키다, 완화시키다"
+    },
+    {
+      "id": 28,
+      "word": "ubiquitous",
+      "meaning": "[형] 도처에 존재하는, 편재하는"
+    },
+    {
+      "id": 29,
+      "word": "pandemic",
+      "meaning": "[명] 전국적인 유행병, 전 세계적인 유행병\n[형] 전국적으로 유행하는"
+    },
+    {
+      "id": 30,
+      "word": "contribute",
+      "meaning": "[동] ① 기부하다 ② 공헌[기여]하다 (to)"
+    },
+    {
+      "id": 31,
+      "word": "temperament",
+      "meaning": "[명] ① 성질, 기질 ② 신경질적임"
+    },
+    {
+      "id": 32,
+      "word": "abridge",
+      "meaning": "[동] ① 요약[축약]하다 ② 단축하다"
+    },
+    {
+      "id": 33,
+      "word": "condone",
+      "meaning": "[동] 용납하다, 용서하다"
+    },
+    {
+      "id": 34,
+      "word": "dense",
+      "meaning": "[형] ① 빽빽한, 밀집한 ② 짙은, 자욱한"
+    },
+    {
+      "id": 35,
+      "word": "mitigate",
+      "meaning": "[동] 누그러뜨리다, 진정시키다"
+    },
+    {
+      "id": 36,
+      "word": "compact",
+      "meaning": "[형] ① 소형의 ② 조밀한, 빽빽한\n[동] 꽉 채우다"
+    },
+    {
+      "id": 37,
+      "word": "outset",
+      "meaning": "[명] 시작, 최초, 발단"
+    },
+    {
+      "id": 38,
+      "word": "concentrate",
+      "meaning": "[동] ① 집중하다, 전념하다 ② 농축시키다\n[명] 농축물"
+    },
+    {
+      "id": 39,
+      "word": "temper",
+      "meaning": "[명] ① (화내는) 성질[성미], 기질 ② 기분"
+    },
+    {
+      "id": 40,
+      "word": "invoice",
+      "meaning": "[명] 송장, 청구서\n[동] 송장[청구서]을 보내다"
+    },
+    {
+      "id": 41,
+      "word": "plague",
+      "meaning": "[명] 전염병\n[동] 괴롭히다"
+    },
+    {
+      "id": 42,
+      "word": "obstacle",
+      "meaning": "[명] 방해, 장애(물)"
+    },
+    {
+      "id": 43,
+      "word": "setback",
+      "meaning": "[명] ① 방해 ② 실패, 차질 ③ 역행, 퇴보"
+    },
+    {
+      "id": 44,
+      "word": "congestion",
+      "meaning": "[명] ① 혼잡 ② 인구과잉, 밀집"
+    },
+    {
+      "id": 45,
+      "word": "monotonous",
+      "meaning": "[형] 단조로운, 지루한"
+    },
+    {
+      "id": 46,
+      "word": "populous",
+      "meaning": "[형] 인구가 조밀한, 인구가 많은"
+    },
+    {
+      "id": 47,
+      "word": "attribute",
+      "meaning": "[동] -의 탓으로 돌리다\n[명] 속성, 자질"
+    },
+    {
+      "id": 48,
+      "word": "endemic",
+      "meaning": "[형] 풍토성의, 한 지방에만 나타나는, 고유의"
+    },
+    {
+      "id": 49,
+      "word": "rate",
+      "meaning": "[동] ① 평가하다 ② 등급을 매기다\n[명] ① 비율 ② 요금 ③ 속도"
+    },
+    {
+      "id": 50,
+      "word": "screen",
+      "meaning": "[명] ① 화면 ② 가리개, 칸막이 ③ 차단막\n[동] ① 가리다, 차단[보호]하다 ② 상영하다\n③ 가려내다, 심사하다"
+    }
+  ]
+}

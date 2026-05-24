@@ -1,0 +1,255 @@
+{
+  "day": 27,
+  "words": [
+    {
+      "id": 1,
+      "word": "suitable",
+      "meaning": "[형] 적합한, 적절한"
+    },
+    {
+      "id": 2,
+      "word": "absurd",
+      "meaning": "[형] 어리석은, 터무니없는"
+    },
+    {
+      "id": 3,
+      "word": "qualify",
+      "meaning": "[동] -에게 자격[권한]을 주다"
+    },
+    {
+      "id": 4,
+      "word": "utilize",
+      "meaning": "[동] 이용하다, 활용하다"
+    },
+    {
+      "id": 5,
+      "word": "profile",
+      "meaning": "[명] ① 윤곽 ② 개요 ③ (얼굴의) 옆모습"
+    },
+    {
+      "id": 6,
+      "word": "exploit",
+      "meaning": "[동] ① 개발하다 ② 이용[활용]하다\n③ 착취하다"
+    },
+    {
+      "id": 7,
+      "word": "award",
+      "meaning": "[동] 주다, 수여하다\n[명] 상"
+    },
+    {
+      "id": 8,
+      "word": "practical",
+      "meaning": "[형] ① 현실적인 ② 실용적인"
+    },
+    {
+      "id": 9,
+      "word": "eligible",
+      "meaning": "[형] 적임의, 적격의"
+    },
+    {
+      "id": 10,
+      "word": "donate",
+      "meaning": "[동] 기부하다, 기증하다"
+    },
+    {
+      "id": 11,
+      "word": "render",
+      "meaning": "[동] ① -이 되게 하다\n② (대가로) 주다, 제공하다"
+    },
+    {
+      "id": 12,
+      "word": "feasible",
+      "meaning": "[형] 실행할 수 있는, 실행 가능한"
+    },
+    {
+      "id": 13,
+      "word": "suppose",
+      "meaning": "[동] 생각하다, 가정하다"
+    },
+    {
+      "id": 14,
+      "word": "craft",
+      "meaning": "[명] ① 기술, 솜씨, 공예\n② 선박, 비행기"
+    },
+    {
+      "id": 15,
+      "word": "tremble",
+      "meaning": "[동] 떨다, 흔들리다"
+    },
+    {
+      "id": 16,
+      "word": "scheme",
+      "meaning": "[명] 계획\n[동] 계획하다"
+    },
+    {
+      "id": 17,
+      "word": "viable",
+      "meaning": "[형] 실행 가능한, 성공할 수 있는"
+    },
+    {
+      "id": 18,
+      "word": "grant",
+      "meaning": "[동] ① 승인하다 ② 주다, 수여하다\n[명] 보조금"
+    },
+    {
+      "id": 19,
+      "word": "exempt",
+      "meaning": "[동] (의무·책임을) 면제하다\n[형] 면제되는"
+    },
+    {
+      "id": 20,
+      "word": "rational",
+      "meaning": "[형] 합리적인, 이성적인"
+    },
+    {
+      "id": 21,
+      "word": "tow",
+      "meaning": "[동] ① 끌다 ② 견인하다\n[명] ① 끌기 ② 견인차"
+    },
+    {
+      "id": 22,
+      "word": "reward",
+      "meaning": "[명] 보상(금), 보답\n[동] 보상하다, 보답하다"
+    },
+    {
+      "id": 23,
+      "word": "temperate",
+      "meaning": "[형] ① 절제된, 차분한 ② (기후가) 온화한"
+    },
+    {
+      "id": 24,
+      "word": "yield",
+      "meaning": "[동] ① 생산[산출]하다 ② 양보[양도]하다 (to)\n③ 항복[굴복]하다 (to)\n[명] 생산액, 산출량"
+    },
+    {
+      "id": 25,
+      "word": "streamline",
+      "meaning": "[동] ① 효율화하다, 간소화하다\n② 유선형으로 하다"
+    },
+    {
+      "id": 26,
+      "word": "blueprint",
+      "meaning": "[명] ① 청사진, 설계도 ② 계획\n[동] 청사진을 만들다, 계획하다"
+    },
+    {
+      "id": 27,
+      "word": "immune",
+      "meaning": "[형] ① 면역의, 면역성이 있는 ② -이 면제된"
+    },
+    {
+      "id": 28,
+      "word": "sensible",
+      "meaning": "[형] ① 분별 있는, 합리적인, 현명한\n② 실용적인, 알맞은"
+    },
+    {
+      "id": 29,
+      "word": "relevant",
+      "meaning": "[형] 적절한, 관련된"
+    },
+    {
+      "id": 30,
+      "word": "bestow",
+      "meaning": "[동] 주다, 수여하다"
+    },
+    {
+      "id": 31,
+      "word": "vibrate",
+      "meaning": "[동] 진동하다, 떨리다"
+    },
+    {
+      "id": 32,
+      "word": "drag",
+      "meaning": "[동] 끌다[끌리다]\n[명] 장애물"
+    },
+    {
+      "id": 33,
+      "word": "project",
+      "meaning": "[명] 계획\n[동] ① 계획하다 ② 투영하다"
+    },
+    {
+      "id": 34,
+      "word": "insane",
+      "meaning": "[형] 미친, 제정신이 아닌"
+    },
+    {
+      "id": 35,
+      "word": "proper",
+      "meaning": "[형] 적절한, 적당한"
+    },
+    {
+      "id": 36,
+      "word": "breed",
+      "meaning": "[동] ① 낳다 ② 기르다, 사육하다\n[명] 품종, 종류"
+    },
+    {
+      "id": 37,
+      "word": "speculate",
+      "meaning": "[동] 사색하다, 추측하다"
+    },
+    {
+      "id": 38,
+      "word": "compensate",
+      "meaning": "[동] ① 보상하다, 배상하다 ② 보충하다"
+    },
+    {
+      "id": 39,
+      "word": "endow",
+      "meaning": "[동] ① 기부하다 ② 주다, 부여하다"
+    },
+    {
+      "id": 40,
+      "word": "haul",
+      "meaning": "[동] 잡아끌다, 세게 당기다"
+    },
+    {
+      "id": 41,
+      "word": "sober",
+      "meaning": "[형] ① 술 마시지 않은, 절제하는\n② 냉정한, 진지한"
+    },
+    {
+      "id": 42,
+      "word": "exert",
+      "meaning": "[동] ① 발휘하다, 행사하다\n② 노력하다 (oneself)"
+    },
+    {
+      "id": 43,
+      "word": "shiver",
+      "meaning": "[동] 떨다, 전율하다"
+    },
+    {
+      "id": 44,
+      "word": "hatch",
+      "meaning": "[동] 부화하다\n[명] 승강구, 뚜껑"
+    },
+    {
+      "id": 45,
+      "word": "harness",
+      "meaning": "[동] 이용하다, 활용하다\n[명] 마구(馬具)"
+    },
+    {
+      "id": 46,
+      "word": "appropriate",
+      "meaning": "[형] 적합한, 어울리는\n[동] ① 도용하다, 무단 사용하다 ② 충당하다"
+    },
+    {
+      "id": 47,
+      "word": "reckon",
+      "meaning": "[동] ① 생각하다, 간주하다\n② 세다, 계산하다 ③ 추정하다"
+    },
+    {
+      "id": 48,
+      "word": "salvage",
+      "meaning": "[동] 구조하다, 구출하다"
+    },
+    {
+      "id": 49,
+      "word": "draft",
+      "meaning": "[명] ① 도안, 초안, 설계 ② 징병\n[동] ① 초안을 작성하다, 설계하다\n② 징병하다"
+    },
+    {
+      "id": 50,
+      "word": "abuse",
+      "meaning": "[동] ① (지위·능력을) 남용하다\n② (사람·동물을) 학대하다\n[명] ① 남용 ② 학대, 욕"
+    }
+  ]
+}

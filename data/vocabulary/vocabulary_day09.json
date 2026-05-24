@@ -1,0 +1,255 @@
+{
+  "day": 9,
+  "words": [
+    {
+      "id": 1,
+      "word": "retire",
+      "meaning": "[동] 물러나다, 은퇴하다"
+    },
+    {
+      "id": 2,
+      "word": "react",
+      "meaning": "[동] 반응하다, 반작용하다"
+    },
+    {
+      "id": 3,
+      "word": "appoint",
+      "meaning": "[동] ① 임명[지명]하다\n② (시간·장소 등을) 정하다"
+    },
+    {
+      "id": 4,
+      "word": "remove",
+      "meaning": "[동] 제거하다"
+    },
+    {
+      "id": 5,
+      "word": "attach",
+      "meaning": "[동] 붙이다, 첨부하다"
+    },
+    {
+      "id": 6,
+      "word": "uneasy",
+      "meaning": "[형] 불편한, 불안한, 불안정한"
+    },
+    {
+      "id": 7,
+      "word": "replace",
+      "meaning": "[동] 대신하다, 대체하다"
+    },
+    {
+      "id": 8,
+      "word": "admire",
+      "meaning": "[동] 존경하다, 감탄하며 바라보다"
+    },
+    {
+      "id": 9,
+      "word": "accord",
+      "meaning": "[동] ① 일치하다 (with) ② 부여하다\n[명] 일치, 합의"
+    },
+    {
+      "id": 10,
+      "word": "amass",
+      "meaning": "[동] 모으다, 축적하다"
+    },
+    {
+      "id": 11,
+      "word": "recall",
+      "meaning": "[동] ① 다시 부르다, 소환하다 ② 회상하다\n[명] ① 소환, 회수 ② 회상"
+    },
+    {
+      "id": 12,
+      "word": "adopt",
+      "meaning": "[동] ① 채택하다 ② 입양하다"
+    },
+    {
+      "id": 13,
+      "word": "affiliate",
+      "meaning": "[동] ① 가입시키다 ② 합병시키다\n[명] 계열 회사"
+    },
+    {
+      "id": 14,
+      "word": "adhere",
+      "meaning": "[동] ① 들러붙다, 부착하다 (to)\n② 고수하다 (to)"
+    },
+    {
+      "id": 15,
+      "word": "adjust",
+      "meaning": "[동] ① 맞추다, 조정[조절]하다 ② 적응하다"
+    },
+    {
+      "id": 16,
+      "word": "assort",
+      "meaning": "[동] ① 분류하다 ② 구색을 갖추다"
+    },
+    {
+      "id": 17,
+      "word": "regain",
+      "meaning": "[동] 되찾다, 회복하다"
+    },
+    {
+      "id": 18,
+      "word": "appease",
+      "meaning": "[동] 진정시키다, 달래다"
+    },
+    {
+      "id": 19,
+      "word": "uncommon",
+      "meaning": "[형] 드문, 흔하지 않은"
+    },
+    {
+      "id": 20,
+      "word": "retrieve",
+      "meaning": "[동] ① 되찾다, 회수하다 ② 검색하다\n[명] 회복"
+    },
+    {
+      "id": 21,
+      "word": "affirm",
+      "meaning": "[동] 확언하다, 단언하다, 주장하다"
+    },
+    {
+      "id": 22,
+      "word": "unconscious",
+      "meaning": "[형] ① 무의식적인 ② 의식을 잃은"
+    },
+    {
+      "id": 23,
+      "word": "reproduce",
+      "meaning": "[동] ① 다시 만들어 내다, 재생[재현]하다\n② 복사[복제]하다 ③ 번식하다"
+    },
+    {
+      "id": 24,
+      "word": "unwillingly",
+      "meaning": "[부] 마지못해, 본의 아니게"
+    },
+    {
+      "id": 25,
+      "word": "unfold",
+      "meaning": "[동] ① (접힌 것을) 펴다, 펼치다\n② (내용 등을) 펼치다[펼쳐지다],\n밝히다[밝혀지다]"
+    },
+    {
+      "id": 26,
+      "word": "unbiased",
+      "meaning": "[형] 선입견 없는, 공평한"
+    },
+    {
+      "id": 27,
+      "word": "uneven",
+      "meaning": "[형] ① 불규칙한, 평평하지 않은\n② 공정하지 않은"
+    },
+    {
+      "id": 28,
+      "word": "amoral",
+      "meaning": "[형] 도덕관념이 없는, 선악 판단이 안 되는"
+    },
+    {
+      "id": 29,
+      "word": "acknowledge",
+      "meaning": "[동] ① 인정하다, 시인하다 ② 감사를 표하다"
+    },
+    {
+      "id": 30,
+      "word": "retreat",
+      "meaning": "[동] 물러나다, 후퇴하다\n[명] ① 후퇴 ② 피난처"
+    },
+    {
+      "id": 31,
+      "word": "uninterested",
+      "meaning": "[형] 무관심한, 냉담한"
+    },
+    {
+      "id": 32,
+      "word": "unfavorable",
+      "meaning": "[형] ① 호의적이 아닌, 비판적인 ② 불리한"
+    },
+    {
+      "id": 33,
+      "word": "reassure",
+      "meaning": "[동] 안심시키다"
+    },
+    {
+      "id": 34,
+      "word": "unconditional",
+      "meaning": "[형] 무조건적인, 절대적인"
+    },
+    {
+      "id": 35,
+      "word": "unsettle",
+      "meaning": "[동] ① 뒤흔들다, 동요시키다\n② 불안하게 하다, -의 마음을 어지럽히다"
+    },
+    {
+      "id": 36,
+      "word": "retail",
+      "meaning": "[명] 소매, 소매상 [형] 소매의, 소매상의\n[동] 소매하다"
+    },
+    {
+      "id": 37,
+      "word": "undo",
+      "meaning": "[동] ① 무효로 만들다, 원상태로 돌리다\n② 풀다, 열다"
+    },
+    {
+      "id": 38,
+      "word": "resurrection",
+      "meaning": "[명] 부활, 소생"
+    },
+    {
+      "id": 39,
+      "word": "anesthetic",
+      "meaning": "[형] 마취의, 무감각한\n[명] 마취제"
+    },
+    {
+      "id": 40,
+      "word": "assure",
+      "meaning": "[동] 보장[보증]하다, 장담하다"
+    },
+    {
+      "id": 41,
+      "word": "rejoice",
+      "meaning": "[동] 기뻐하다, 좋아하다"
+    },
+    {
+      "id": 42,
+      "word": "anarchy",
+      "meaning": "[명] 무정부 상태, (정치·사회적) 혼란"
+    },
+    {
+      "id": 43,
+      "word": "reciprocal",
+      "meaning": "[형] 상호 간의"
+    },
+    {
+      "id": 44,
+      "word": "acquiesce",
+      "meaning": "[동] 묵인하다, (마지못해) 따르다 (in)"
+    },
+    {
+      "id": 45,
+      "word": "respond",
+      "meaning": "[동] 반응하다, 응답하다 (to)"
+    },
+    {
+      "id": 46,
+      "word": "amnesia",
+      "meaning": "[명] 기억 상실(증), 건망증"
+    },
+    {
+      "id": 47,
+      "word": "unbearable",
+      "meaning": "[형] 참을 수 없는"
+    },
+    {
+      "id": 48,
+      "word": "reimburse",
+      "meaning": "[동] -에게 변상하다, 갚다"
+    },
+    {
+      "id": 49,
+      "word": "adapt",
+      "meaning": "[동] ① 적응하다[시키다]\n② 맞추다, 조정하다\n③ 각색하다, 개작하다"
+    },
+    {
+      "id": 50,
+      "word": "unearth",
+      "meaning": "[동] 파내다, 발굴하다"
+    }
+  ]
+}

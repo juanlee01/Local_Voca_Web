@@ -1,0 +1,255 @@
+{
+  "day": 39,
+  "words": [
+    {
+      "id": 1,
+      "word": "confront",
+      "meaning": "[동] ① 직면하다, 마주치다\n② 맞서다, 대항하다"
+    },
+    {
+      "id": 2,
+      "word": "worsen",
+      "meaning": "[동] 악화되다, 악화시키다"
+    },
+    {
+      "id": 3,
+      "word": "grateful",
+      "meaning": "[형] 고마워하는, 감사하는"
+    },
+    {
+      "id": 4,
+      "word": "reinforce",
+      "meaning": "[동] 강화하다, 보강하다"
+    },
+    {
+      "id": 5,
+      "word": "addict",
+      "meaning": "[동] 중독시키다\n[명] ① 중독자 ② 애호가, 팬"
+    },
+    {
+      "id": 6,
+      "word": "gloomy",
+      "meaning": "[형] ① 어둑어둑한 ② 음울한, 울적한"
+    },
+    {
+      "id": 7,
+      "word": "resist",
+      "meaning": "[동] 반대하다, 저항하다"
+    },
+    {
+      "id": 8,
+      "word": "wreck",
+      "meaning": "[동] ① 망가뜨리다 ② (배를) 난파시키다\n[명] ① 만신창이 ② 난파, (사고) 잔해"
+    },
+    {
+      "id": 9,
+      "word": "gratify",
+      "meaning": "[동] 만족시키다"
+    },
+    {
+      "id": 10,
+      "word": "uphold",
+      "meaning": "[동] 지지하다, 떠받치다"
+    },
+    {
+      "id": 11,
+      "word": "intrude",
+      "meaning": "[동] ① 침입하다 ② 간섭[개입]하다"
+    },
+    {
+      "id": 12,
+      "word": "uproar",
+      "meaning": "[명] 소란, 소동"
+    },
+    {
+      "id": 13,
+      "word": "rebel",
+      "meaning": "[명] 반역자, 저항자\n[동] 반항하다, 저항하다"
+    },
+    {
+      "id": 14,
+      "word": "fortify",
+      "meaning": "[동] ① 강화하다 ② 요새화하다"
+    },
+    {
+      "id": 15,
+      "word": "protest",
+      "meaning": "[동] ① 항의하다, 시위하다 ② 주장하다\n[명] ① 항의, 시위 ② 주장"
+    },
+    {
+      "id": 16,
+      "word": "spoil",
+      "meaning": "[동] 망치다, 상하게 하다"
+    },
+    {
+      "id": 17,
+      "word": "imminent",
+      "meaning": "[형] 긴박한, 임박한"
+    },
+    {
+      "id": 18,
+      "word": "ruin",
+      "meaning": "[명] ① 파괴, 파멸 ② 폐허[주로 pl.]\n[동] 폐허로 만들다, 파멸시키다"
+    },
+    {
+      "id": 19,
+      "word": "mess",
+      "meaning": "[명] 엉망인 상태, 난장판\n[동] 엉망으로 만들다"
+    },
+    {
+      "id": 20,
+      "word": "disgrace",
+      "meaning": "[명] 불명예\n[동] 명예를 더럽히다"
+    },
+    {
+      "id": 21,
+      "word": "intricate",
+      "meaning": "[형] 복잡한, 뒤얽힌"
+    },
+    {
+      "id": 22,
+      "word": "turmoil",
+      "meaning": "[명] 혼란, 동요"
+    },
+    {
+      "id": 23,
+      "word": "invade",
+      "meaning": "[동] ① 침입[침략]하다 ② (권리를) 침해하다"
+    },
+    {
+      "id": 24,
+      "word": "violate",
+      "meaning": "[동] ① (법 등을) 위반하다, 어기다\n② (사생활 등을) 침해하다"
+    },
+    {
+      "id": 25,
+      "word": "grudge",
+      "meaning": "[명] 원한, 유감\n[동] 억울해하다, 아까워하다"
+    },
+    {
+      "id": 26,
+      "word": "infringe",
+      "meaning": "[동] 위반하다, 침해하다"
+    },
+    {
+      "id": 27,
+      "word": "impending",
+      "meaning": "[형] 임박한, 곧 일어날"
+    },
+    {
+      "id": 28,
+      "word": "deteriorate",
+      "meaning": "[동] ① 악화되다, 더 나빠지다\n② 악화시키다, 저하시키다"
+    },
+    {
+      "id": 29,
+      "word": "assault",
+      "meaning": "[명] 공격, 폭행\n[동] ① 공격하다, 폭행하다 ② 괴롭히다"
+    },
+    {
+      "id": 30,
+      "word": "demolish",
+      "meaning": "[동] 부수다, 허물다"
+    },
+    {
+      "id": 31,
+      "word": "entangle",
+      "meaning": "[동] ① 얽히게 하다 ② 복잡하게 하다"
+    },
+    {
+      "id": 32,
+      "word": "chaos",
+      "meaning": "[명] 혼돈, 무질서"
+    },
+    {
+      "id": 33,
+      "word": "conscience",
+      "meaning": "[명] 양심"
+    },
+    {
+      "id": 34,
+      "word": "blatant",
+      "meaning": "[형] 노골적인, 명백한"
+    },
+    {
+      "id": 35,
+      "word": "dismay",
+      "meaning": "[명] 당황, 낙담\n[동] 당황하게 하다, 실망시키다"
+    },
+    {
+      "id": 36,
+      "word": "unerring",
+      "meaning": "[형] 틀림없는, 항상 정확한"
+    },
+    {
+      "id": 37,
+      "word": "impudent",
+      "meaning": "[형] 무례한, 뻔뻔스러운"
+    },
+    {
+      "id": 38,
+      "word": "aggravate",
+      "meaning": "[동] 악화시키다"
+    },
+    {
+      "id": 39,
+      "word": "defy",
+      "meaning": "[동] ① 반항[도전]하다 ② 무시하다"
+    },
+    {
+      "id": 40,
+      "word": "stigma",
+      "meaning": "[명] 오명, 낙인"
+    },
+    {
+      "id": 41,
+      "word": "infallible",
+      "meaning": "[형] 틀림이 없는, 절대 확실한"
+    },
+    {
+      "id": 42,
+      "word": "uprising",
+      "meaning": "[명] 폭동, 반란"
+    },
+    {
+      "id": 43,
+      "word": "assail",
+      "meaning": "[동] ① 맹렬히 공격하다 ② 괴롭히다"
+    },
+    {
+      "id": 44,
+      "word": "breach",
+      "meaning": "[동] 위반하다, 어기다\n[명] 위반, 침해"
+    },
+    {
+      "id": 45,
+      "word": "dilettante",
+      "meaning": "[명] 아마추어 애호가, 호사가"
+    },
+    {
+      "id": 46,
+      "word": "dismal",
+      "meaning": "[형] 우울한, 울적하게 하는, 음산한"
+    },
+    {
+      "id": 47,
+      "word": "fallacy",
+      "meaning": "[명] ① 잘못된 생각, 착오 ② 오류"
+    },
+    {
+      "id": 48,
+      "word": "exacerbate",
+      "meaning": "[동] 악화시키다"
+    },
+    {
+      "id": 49,
+      "word": "underpin",
+      "meaning": "[동] 뒷받침하다, 보강하다, 지지하다"
+    },
+    {
+      "id": 50,
+      "word": "blunt",
+      "meaning": "[형] ① 무딘, 뭉툭한\n② 직설적인, 퉁명스러운\n[동] 무디게 하다"
+    }
+  ]
+}

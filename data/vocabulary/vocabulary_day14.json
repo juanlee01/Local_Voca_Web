@@ -1,0 +1,255 @@
+{
+  "day": 14,
+  "words": [
+    {
+      "id": 1,
+      "word": "altitude",
+      "meaning": "[명] 고도, 높이"
+    },
+    {
+      "id": 2,
+      "word": "shortage",
+      "meaning": "[명] 부족, 결핍"
+    },
+    {
+      "id": 3,
+      "word": "abundant",
+      "meaning": "[형] 풍부한"
+    },
+    {
+      "id": 4,
+      "word": "habitual",
+      "meaning": "[형] 습관적인"
+    },
+    {
+      "id": 5,
+      "word": "personal",
+      "meaning": "[형] ① 개인의, 사적인 ② 개인에 관한\n③ 직접[몸소] 하는"
+    },
+    {
+      "id": 6,
+      "word": "momentary",
+      "meaning": "[형] 순간적인, 잠깐의"
+    },
+    {
+      "id": 7,
+      "word": "plentiful",
+      "meaning": "[형] 많은, 풍부한"
+    },
+    {
+      "id": 8,
+      "word": "fortunate",
+      "meaning": "[형] 운이 좋은"
+    },
+    {
+      "id": 9,
+      "word": "frequency",
+      "meaning": "[명] ① 빈도, 횟수 ② 빈번함 ③ 주파수"
+    },
+    {
+      "id": 10,
+      "word": "costly",
+      "meaning": "[형] ① 값이 비싼 ② 대가[희생]가 큰"
+    },
+    {
+      "id": 11,
+      "word": "optional",
+      "meaning": "[형] 선택의, 임의의"
+    },
+    {
+      "id": 12,
+      "word": "childish",
+      "meaning": "[형] 유치한"
+    },
+    {
+      "id": 13,
+      "word": "mechanical",
+      "meaning": "[형] ① 기계(상)의 ② 기계적인, 습관적인"
+    },
+    {
+      "id": 14,
+      "word": "stupidity",
+      "meaning": "[명] 어리석음, 어리석은 짓"
+    },
+    {
+      "id": 15,
+      "word": "marvelous",
+      "meaning": "[형] ① 신기한, 놀라운 ② 훌륭한"
+    },
+    {
+      "id": 16,
+      "word": "withdrawal",
+      "meaning": "[명] 철회, 취소, 후퇴"
+    },
+    {
+      "id": 17,
+      "word": "cruelty",
+      "meaning": "[명] 잔인, 잔혹"
+    },
+    {
+      "id": 18,
+      "word": "aromatic",
+      "meaning": "[형] 향기로운"
+    },
+    {
+      "id": 19,
+      "word": "deadly",
+      "meaning": "[형] ① 치명적인 ② 극도의, 심한"
+    },
+    {
+      "id": 20,
+      "word": "spacious",
+      "meaning": "[형] 넓은, 널찍한"
+    },
+    {
+      "id": 21,
+      "word": "adulthood",
+      "meaning": "[명] 성인기"
+    },
+    {
+      "id": 22,
+      "word": "comparable",
+      "meaning": "[형] 비슷한, 비교할 만한, 필적하는"
+    },
+    {
+      "id": 23,
+      "word": "vigorous",
+      "meaning": "[형] ① 활력 있는 ② 격렬한"
+    },
+    {
+      "id": 24,
+      "word": "hardship",
+      "meaning": "[명] 어려움, 고난, 곤란"
+    },
+    {
+      "id": 25,
+      "word": "massive",
+      "meaning": "[형] 대량의, 큰 덩어리의"
+    },
+    {
+      "id": 26,
+      "word": "favorable",
+      "meaning": "[형] ① 호의적인 ② 유리한"
+    },
+    {
+      "id": 27,
+      "word": "sensation",
+      "meaning": "[명] ① 감각, 느낌 ② 센세이션, 선풍"
+    },
+    {
+      "id": 28,
+      "word": "politician",
+      "meaning": "[명] 정치가"
+    },
+    {
+      "id": 29,
+      "word": "adventurous",
+      "meaning": "[형] ① 모험을 즐기는, 대담한 ② 모험적인"
+    },
+    {
+      "id": 30,
+      "word": "prudent",
+      "meaning": "[형] 신중한, 사려 깊은"
+    },
+    {
+      "id": 31,
+      "word": "combustion",
+      "meaning": "[명] 연소, 산화"
+    },
+    {
+      "id": 32,
+      "word": "eventful",
+      "meaning": "[형] 다사다난한, 파란만장한"
+    },
+    {
+      "id": 33,
+      "word": "livelihood",
+      "meaning": "[명] 생계(의 수단), 살림"
+    },
+    {
+      "id": 34,
+      "word": "passionate",
+      "meaning": "[형] 열정적인, 격정적인"
+    },
+    {
+      "id": 35,
+      "word": "carrier",
+      "meaning": "[명] ① 운송 회사, 항공사\n② 보균자, (병균) 매개체"
+    },
+    {
+      "id": 36,
+      "word": "citizenship",
+      "meaning": "[명] 시민권, 시민의 자격[신분]"
+    },
+    {
+      "id": 37,
+      "word": "pessimism",
+      "meaning": "[명] 비관(론), 비관[염세]주의"
+    },
+    {
+      "id": 38,
+      "word": "restless",
+      "meaning": "[형] ① 불안한, 들뜬, 침착하지 못한\n② 잠 못 이루는"
+    },
+    {
+      "id": 39,
+      "word": "statutory",
+      "meaning": "[형] 법령의, 법정의"
+    },
+    {
+      "id": 40,
+      "word": "customary",
+      "meaning": "[형] ① 관례적인 ② 습관적인"
+    },
+    {
+      "id": 41,
+      "word": "thoughtful",
+      "meaning": "[형] 사려 깊은"
+    },
+    {
+      "id": 42,
+      "word": "mannish",
+      "meaning": "[형] (여자가) 남자 같은(부정적인 의미)"
+    },
+    {
+      "id": 43,
+      "word": "righteous",
+      "meaning": "[형] ① 정의로운, 공정한 ② 당연한, 마땅한"
+    },
+    {
+      "id": 44,
+      "word": "solitude",
+      "meaning": "[명] 고독, 외로움"
+    },
+    {
+      "id": 45,
+      "word": "racism",
+      "meaning": "[명] 인종 차별(주의)"
+    },
+    {
+      "id": 46,
+      "word": "leakage",
+      "meaning": "[명] 누출"
+    },
+    {
+      "id": 47,
+      "word": "penniless",
+      "meaning": "[형] 무일푼의, 몹시 가난한"
+    },
+    {
+      "id": 48,
+      "word": "optimism",
+      "meaning": "[명] 낙관(론), 낙천주의"
+    },
+    {
+      "id": 49,
+      "word": "robber",
+      "meaning": "[명] 도둑, 강도"
+    },
+    {
+      "id": 50,
+      "word": "nuisance",
+      "meaning": "[명] 성가신 존재, 골칫거리"
+    }
+  ]
+}

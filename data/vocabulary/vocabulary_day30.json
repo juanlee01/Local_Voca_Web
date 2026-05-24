@@ -1,0 +1,255 @@
+{
+  "day": 30,
+  "words": [
+    {
+      "id": 1,
+      "word": "magnitude",
+      "meaning": "[명] ① (엄청난) 규모, 중요도\n② (지진의) 진도"
+    },
+    {
+      "id": 2,
+      "word": "striking",
+      "meaning": "[형] 현저한, 두드러진, 인상적인"
+    },
+    {
+      "id": 3,
+      "word": "fade",
+      "meaning": "[동] 바래다, 희미해지다, 사라지다"
+    },
+    {
+      "id": 4,
+      "word": "fairy",
+      "meaning": "[명] 요정"
+    },
+    {
+      "id": 5,
+      "word": "interfere",
+      "meaning": "[동] ① 방해하다 (with) ② 간섭하다 (in)"
+    },
+    {
+      "id": 6,
+      "word": "impede",
+      "meaning": "[동] 방해하다, 지연시키다"
+    },
+    {
+      "id": 7,
+      "word": "eminent",
+      "meaning": "[형] 저명한, 탁월한"
+    },
+    {
+      "id": 8,
+      "word": "remarkable",
+      "meaning": "[형] 놀라운, 주목할 만한"
+    },
+    {
+      "id": 9,
+      "word": "turbulent",
+      "meaning": "[형] ① 휘몰아치는, 격동의 ② 사나운"
+    },
+    {
+      "id": 10,
+      "word": "dim",
+      "meaning": "[형] 침침한, 어둑한, 흐린"
+    },
+    {
+      "id": 11,
+      "word": "diameter",
+      "meaning": "[명] 지름"
+    },
+    {
+      "id": 12,
+      "word": "wonder",
+      "meaning": "[동] ① 궁금해하다 ② 놀라다\n[명] 경이, 불가사의"
+    },
+    {
+      "id": 13,
+      "word": "prominent",
+      "meaning": "[형] ① 눈에 띄는, 두드러진 ② 저명한"
+    },
+    {
+      "id": 14,
+      "word": "delicate",
+      "meaning": "[형] ① 연약한 ② 세심한, 까다로운\n③ 섬세한, 정교한"
+    },
+    {
+      "id": 15,
+      "word": "wither",
+      "meaning": "[동] 시들다[시들게 하다], 약해지다[약하게 하다]"
+    },
+    {
+      "id": 16,
+      "word": "infirm",
+      "meaning": "[형] 병약한, 노쇠한\n[명] 병약자"
+    },
+    {
+      "id": 17,
+      "word": "hinder",
+      "meaning": "[동] 방해하다, 막다"
+    },
+    {
+      "id": 18,
+      "word": "faint",
+      "meaning": "[동] 기절하다, 실신하다\n[형] 희미한, 어렴풋한"
+    },
+    {
+      "id": 19,
+      "word": "noticeable",
+      "meaning": "[형] 눈에 띄는, 뚜렷한, 현저한"
+    },
+    {
+      "id": 20,
+      "word": "suffer",
+      "meaning": "[동] ① (고통 등을) 겪다\n② 괴로워하다, 시달리다 (from)"
+    },
+    {
+      "id": 21,
+      "word": "fable",
+      "meaning": "[명] 우화, 전설, 꾸며낸 이야기"
+    },
+    {
+      "id": 22,
+      "word": "exceptional",
+      "meaning": "[형] ① 예외적인 ② 아주 뛰어난"
+    },
+    {
+      "id": 23,
+      "word": "pale",
+      "meaning": "[형] ① (안색이) 창백한 ② (색이) 엷은, 옅은\n③ (빛이) 약한\n[동] ① (안색이) 창백해지다 ② 색이 옅어지다\n③ (빛이) 약해지다"
+    },
+    {
+      "id": 24,
+      "word": "gauge",
+      "meaning": "[동] ① 재다, 측정하다\n② (사람·행동 등을) 평가[판단]하다\n[명] ① 표준 치수, 규격\n② (평가·판단 등의) 기준[방법, 수단]"
+    },
+    {
+      "id": 25,
+      "word": "address",
+      "meaning": "[명] ① 주소 ② 연설\n[동] ① 연설하다 ② 말을 걸다\n③ (문제 등을) 다루다, 해결하다"
+    },
+    {
+      "id": 26,
+      "word": "disturb",
+      "meaning": "[동] 방해하다, 어지럽히다"
+    },
+    {
+      "id": 27,
+      "word": "measure",
+      "meaning": "[동] ① 재다, 측정하다 ② 판단하다, 평가하다\n[명] ① 조치[주로 pl.] ② 척도 ③ 치수"
+    },
+    {
+      "id": 28,
+      "word": "hamper",
+      "meaning": "[동] 방해하다"
+    },
+    {
+      "id": 29,
+      "word": "breathtaking",
+      "meaning": "[형] 놀랄 만한, 아슬아슬한"
+    },
+    {
+      "id": 30,
+      "word": "feeble",
+      "meaning": "[형] 약한, 연약한"
+    },
+    {
+      "id": 31,
+      "word": "moan",
+      "meaning": "[동] ① 신음하다 ② 한탄하다, 불평하다\n[명] ① 신음 (소리) ② 불평"
+    },
+    {
+      "id": 32,
+      "word": "weigh",
+      "meaning": "[동] ① 무게를 달다 ② 무게가 –이다\n③ 숙고하다, 비교 검토하다 ④ 중요시되다"
+    },
+    {
+      "id": 33,
+      "word": "vulnerable",
+      "meaning": "[형] 상처받기 쉬운, 취약한"
+    },
+    {
+      "id": 34,
+      "word": "sensitive",
+      "meaning": "[형] ① 민감한, 예민한 ② 섬세한, 세심한"
+    },
+    {
+      "id": 35,
+      "word": "fatigue",
+      "meaning": "[명] 피로\n[동] 피로하게[지치게] 하다, 약화시키다"
+    },
+    {
+      "id": 36,
+      "word": "salient",
+      "meaning": "[형] 눈에 띄는, 두드러진"
+    },
+    {
+      "id": 37,
+      "word": "groan",
+      "meaning": "[동] ① 신음하다, 괴로워하다 ② 불평하다\n[명] ① 신음 (소리) ② 불평하는 소리"
+    },
+    {
+      "id": 38,
+      "word": "dimension",
+      "meaning": "[명] ① 치수, 크기, 규모 ② 차원"
+    },
+    {
+      "id": 39,
+      "word": "thermometer",
+      "meaning": "[명] 온도계"
+    },
+    {
+      "id": 40,
+      "word": "overcast",
+      "meaning": "[형] 흐린, 음침한\n[동] 흐리게 하다, 우울하게 만들다"
+    },
+    {
+      "id": 41,
+      "word": "ache",
+      "meaning": "[동] 아프다\n[명] 아픔, 통증"
+    },
+    {
+      "id": 42,
+      "word": "preeminent",
+      "meaning": "[형] 탁월한, 우수한"
+    },
+    {
+      "id": 43,
+      "word": "blurred",
+      "meaning": "[형] 흐린, 선명하지 않은"
+    },
+    {
+      "id": 44,
+      "word": "prodigious",
+      "meaning": "[형] ① 비범한, 놀라운 ② 거대한, 엄청난"
+    },
+    {
+      "id": 45,
+      "word": "wane",
+      "meaning": "[동] 적어지다, 약해지다, 시들다"
+    },
+    {
+      "id": 46,
+      "word": "barometer",
+      "meaning": "[명] ① 기압계 ② 척도"
+    },
+    {
+      "id": 47,
+      "word": "occult",
+      "meaning": "[형] 불가사의한, 주술적인\n[명] 주술"
+    },
+    {
+      "id": 48,
+      "word": "weary",
+      "meaning": "[형] ① 피로한, 지친 ② 싫증 난\n[동] 지치다[지치게 만들다],\n싫증 나다[싫증 나게 만들다]"
+    },
+    {
+      "id": 49,
+      "word": "tackle",
+      "meaning": "[동] ① (일 등에) 부딪치다, (문제 등을) 다루다\n② 태클하다\n[명] 태클"
+    },
+    {
+      "id": 50,
+      "word": "content",
+      "meaning": "[형] 만족하는 (with)\n[동] 만족시키다\n[명] 내용(물)"
+    }
+  ]
+}

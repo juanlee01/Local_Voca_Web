@@ -1,0 +1,255 @@
+{
+  "day": 15,
+  "words": [
+    {
+      "id": 1,
+      "word": "allocate",
+      "meaning": "[동] 할당하다, 배분하다"
+    },
+    {
+      "id": 2,
+      "word": "property",
+      "meaning": "[명] ① 재산, 소유물 ② 특성, 속성"
+    },
+    {
+      "id": 3,
+      "word": "accidental",
+      "meaning": "[형] ① 우연한, 돌발적인 ② 부수적인"
+    },
+    {
+      "id": 4,
+      "word": "notify",
+      "meaning": "[동] 알리다, 통지하다"
+    },
+    {
+      "id": 5,
+      "word": "emphasize",
+      "meaning": "[동] 강조하다"
+    },
+    {
+      "id": 6,
+      "word": "possess",
+      "meaning": "[동] 소유하다, 가지다"
+    },
+    {
+      "id": 7,
+      "word": "recognize",
+      "meaning": "[동] ① 알아보다, 인지하다 ② 인정하다"
+    },
+    {
+      "id": 8,
+      "word": "highlight",
+      "meaning": "[동] 강조하다\n[명] 하이라이트, 가장 좋은[흥미로운] 부분"
+    },
+    {
+      "id": 9,
+      "word": "recommend",
+      "meaning": "[동] ① 추천하다 ② 권하다"
+    },
+    {
+      "id": 10,
+      "word": "select",
+      "meaning": "[동] 선택하다\n[형] 엄선된"
+    },
+    {
+      "id": 11,
+      "word": "desolate",
+      "meaning": "[형] ① 적막한, 황량한 ② 고독한, 쓸쓸한"
+    },
+    {
+      "id": 12,
+      "word": "acquire",
+      "meaning": "[동] 얻다, 획득하다, 습득하다"
+    },
+    {
+      "id": 13,
+      "word": "solitary",
+      "meaning": "[형] ① 혼자의, 혼자 하는 ② 고독한, 외로운"
+    },
+    {
+      "id": 14,
+      "word": "designate",
+      "meaning": "[동] ① 지정하다 ② 지명하다, 임명하다"
+    },
+    {
+      "id": 15,
+      "word": "concrete",
+      "meaning": "[형] ① 구체적인 ② 콘크리트로 된\n[명] 콘크리트"
+    },
+    {
+      "id": 16,
+      "word": "particular",
+      "meaning": "[형] ① 특정한, 특별한 ② 개별적인"
+    },
+    {
+      "id": 17,
+      "word": "assign",
+      "meaning": "[동] ① 배정하다, 할당하다\n② 임명하다, 선임하다"
+    },
+    {
+      "id": 18,
+      "word": "portion",
+      "meaning": "[명] ① 부분 ② 몫\n[동] 분배하다"
+    },
+    {
+      "id": 19,
+      "word": "note",
+      "meaning": "[동] ① 적어 두다 ② 주목하다 ③ 언급하다\n[명] ① 메모 ② 음표"
+    },
+    {
+      "id": 20,
+      "word": "allot",
+      "meaning": "[동] (시간·돈·업무 등을) 할당[배당]하다"
+    },
+    {
+      "id": 21,
+      "word": "specific",
+      "meaning": "[형] ① 구체적인, 분명한 ② 특정한"
+    },
+    {
+      "id": 22,
+      "word": "nominate",
+      "meaning": "[동] ① (후보자로) 지명[추천]하다 ② 임명하다"
+    },
+    {
+      "id": 23,
+      "word": "distribute",
+      "meaning": "[동] 분배하다, 나누어 주다"
+    },
+    {
+      "id": 24,
+      "word": "question",
+      "meaning": "[명] ① 질문 ② 문제 ③ 의심\n[동] ① 질문하다 ② 의심하다, 이의를 제기하다"
+    },
+    {
+      "id": 25,
+      "word": "account",
+      "meaning": "[명] ① 이야기 ② 설명 ③ 계좌 ④ (회계) 장부\n[동] ① 설명하다 (for) ② 비율을 차지하다 (for)"
+    },
+    {
+      "id": 26,
+      "word": "suggest",
+      "meaning": "[동] ① 제안하다 ② 암시하다"
+    },
+    {
+      "id": 27,
+      "word": "ambiguous",
+      "meaning": "[형] 애매한, 모호한"
+    },
+    {
+      "id": 28,
+      "word": "cognition",
+      "meaning": "[명] 인식, 인지"
+    },
+    {
+      "id": 29,
+      "word": "notice",
+      "meaning": "[명] ① 주의, 주목 ② 통지, 통보 ③ 안내문\n[동] ① 알아차리다 ② 주목하다 ③ 통지하다"
+    },
+    {
+      "id": 30,
+      "word": "proportion",
+      "meaning": "[명] ① 비율 ② 부분"
+    },
+    {
+      "id": 31,
+      "word": "accentuate",
+      "meaning": "[동] 강조하다, 두드러지게 하다"
+    },
+    {
+      "id": 32,
+      "word": "acquaint",
+      "meaning": "[동] 알리다, 전하다"
+    },
+    {
+      "id": 33,
+      "word": "dispense",
+      "meaning": "[동] ① 나누어 주다, 제공하다 ② 조제하다"
+    },
+    {
+      "id": 34,
+      "word": "asset",
+      "meaning": "[명] 자산, 재산"
+    },
+    {
+      "id": 35,
+      "word": "resign",
+      "meaning": "[동] ① 사임하다, 사직하다\n② 포기하다, 체념하다"
+    },
+    {
+      "id": 36,
+      "word": "inquire",
+      "meaning": "[동] ① 묻다, 질문하다 ② 조사하다"
+    },
+    {
+      "id": 37,
+      "word": "connote",
+      "meaning": "[동] 내포하다, 암시하다"
+    },
+    {
+      "id": 38,
+      "word": "ambivalent",
+      "meaning": "[형] 양면적인, 상반되는 감정을 가진"
+    },
+    {
+      "id": 39,
+      "word": "bulletin",
+      "meaning": "[명] 게시, 고시"
+    },
+    {
+      "id": 40,
+      "word": "underscore",
+      "meaning": "[동] 밑줄을 긋다, 강조하다"
+    },
+    {
+      "id": 41,
+      "word": "dose",
+      "meaning": "[명] 복용량, 투여량"
+    },
+    {
+      "id": 42,
+      "word": "symmetry",
+      "meaning": "[명] (좌우의) 대칭, 균형"
+    },
+    {
+      "id": 43,
+      "word": "anonymous",
+      "meaning": "[형] 익명의, 작자 불명의"
+    },
+    {
+      "id": 44,
+      "word": "inaugurate",
+      "meaning": "[동] ① 취임시키다 ② 시작하다"
+    },
+    {
+      "id": 45,
+      "word": "mortgage",
+      "meaning": "[명] 저당, (담보) 대출\n[동] 저당 잡히다"
+    },
+    {
+      "id": 46,
+      "word": "obscure",
+      "meaning": "[형] ① 불명확한, 모호한 ② 잘 알려지지 않은\n[동] 모호하게 하다"
+    },
+    {
+      "id": 47,
+      "word": "equilibrium",
+      "meaning": "[명] ① 평형, 균형 ② (마음의) 평정"
+    },
+    {
+      "id": 48,
+      "word": "sole",
+      "meaning": "[형] ① 유일한, 단 하나의 ② 혼자의, 독신의"
+    },
+    {
+      "id": 49,
+      "word": "issue",
+      "meaning": "[동] ① 발행[발표]하다 ② 공포[발포]하다\n[명] ① 주제, 쟁점 ② 문제 ③ (정기 간행물의) 호"
+    },
+    {
+      "id": 50,
+      "word": "nominal",
+      "meaning": "[형] 명목상의, 이름뿐인"
+    }
+  ]
+}

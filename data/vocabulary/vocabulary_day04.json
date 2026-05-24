@@ -1,0 +1,255 @@
+{
+  "day": 4,
+  "words": [
+    {
+      "id": 1,
+      "word": "submit",
+      "meaning": "[동] ① 제출하다 ② 복종하다, 굴복하다"
+    },
+    {
+      "id": 2,
+      "word": "impress",
+      "meaning": "[동] 깊은 인상을 주다, 감동시키다"
+    },
+    {
+      "id": 3,
+      "word": "expose",
+      "meaning": "[동] ① 노출시키다, 드러내다 ② 폭로하다"
+    },
+    {
+      "id": 4,
+      "word": "grade",
+      "meaning": "[명] ① 등급, 단계 ② 학년 ③ 성적\n[동] 등급을 매기다"
+    },
+    {
+      "id": 5,
+      "word": "recede",
+      "meaning": "[동] ① 후퇴하다, 물러나다 ② 약해지다"
+    },
+    {
+      "id": 6,
+      "word": "import",
+      "meaning": "[동] 수입하다\n[명] 수입"
+    },
+    {
+      "id": 7,
+      "word": "admit",
+      "meaning": "[동] ① 인정하다, 시인하다\n② 받아들이다, (입학을) 허가하다"
+    },
+    {
+      "id": 8,
+      "word": "transport",
+      "meaning": "[동] 운송하다, 수송하다\n[명] 운송(업), 수송"
+    },
+    {
+      "id": 9,
+      "word": "depress",
+      "meaning": "[동] 낙담시키다, 우울하게 하다"
+    },
+    {
+      "id": 10,
+      "word": "gradual",
+      "meaning": "[형] 단계적인, 점진적인"
+    },
+    {
+      "id": 11,
+      "word": "avenue",
+      "meaning": "[명] 대로, 가(街)"
+    },
+    {
+      "id": 12,
+      "word": "pose",
+      "meaning": "[동] ① 자세를 취하다 ② (문제를) 제기하다\n[명] 자세"
+    },
+    {
+      "id": 13,
+      "word": "access",
+      "meaning": "[명] 접근, 이용, 출입\n[동] 접근하다, 이용하다"
+    },
+    {
+      "id": 14,
+      "word": "manual",
+      "meaning": "[형] ① 손의 ② 수동의\n[명] 소책자, 설명서"
+    },
+    {
+      "id": 15,
+      "word": "mission",
+      "meaning": "[명] ① 임무, 사명 ② 전도, 포교 ③ 사절단"
+    },
+    {
+      "id": 16,
+      "word": "propose",
+      "meaning": "[동] 제안[제의]하다"
+    },
+    {
+      "id": 17,
+      "word": "suppress",
+      "meaning": "[동] ① (감정을) 참다, 억누르다 ② 진압하다"
+    },
+    {
+      "id": 18,
+      "word": "ingredient",
+      "meaning": "[명] ① (요리) 재료 ② 성분, 구성 요소"
+    },
+    {
+      "id": 19,
+      "word": "manufacture",
+      "meaning": "[동] 생산하다, 제조하다\n[명] 제조(업)"
+    },
+    {
+      "id": 20,
+      "word": "revenue",
+      "meaning": "[명] 세입, 수입"
+    },
+    {
+      "id": 21,
+      "word": "proceed",
+      "meaning": "[동] 나아가다, 계속하다, 진행되다"
+    },
+    {
+      "id": 22,
+      "word": "exceed",
+      "meaning": "[동] ① 넘다, 초과하다 ② 능가하다, 우월하다"
+    },
+    {
+      "id": 23,
+      "word": "portable",
+      "meaning": "[형] 휴대용의, 가지고 다닐 수 있는"
+    },
+    {
+      "id": 24,
+      "word": "define",
+      "meaning": "[동] 정의하다, 규정하다"
+    },
+    {
+      "id": 25,
+      "word": "maneuver",
+      "meaning": "[동] ① 움직이다, 이동시키다\n② 기동 훈련시키다\n③ 조종하다, 책략을 쓰다\n[명] ① 책략, 술책 ② 작전, 기동 훈련"
+    },
+    {
+      "id": 26,
+      "word": "regress",
+      "meaning": "[동] 퇴보하다, 퇴행하다"
+    },
+    {
+      "id": 27,
+      "word": "dismiss",
+      "meaning": "[동] ① 해고하다 ② 해산시키다 ③ 묵살하다"
+    },
+    {
+      "id": 28,
+      "word": "oppress",
+      "meaning": "[동] ① 탄압[억압]하다\n② 압박감을 주다, 우울하게 만들다"
+    },
+    {
+      "id": 29,
+      "word": "compose",
+      "meaning": "[동] ① 구성하다 ② 작곡하다, 작문하다"
+    },
+    {
+      "id": 30,
+      "word": "mandatory",
+      "meaning": "[형] ① 명령의 ② 강제적인, 의무적인, 필수의"
+    },
+    {
+      "id": 31,
+      "word": "dispose",
+      "meaning": "[동] ① 배치하다 ② 처리[처분]하다 (of)\n③ 경향을 갖게 하다"
+    },
+    {
+      "id": 32,
+      "word": "advent",
+      "meaning": "[명] 출현, 도래"
+    },
+    {
+      "id": 33,
+      "word": "commit",
+      "meaning": "[동] ① 범하다, 저지르다 ② 전념하다\n③ 맡기다, 위임하다 ④ 약속하다"
+    },
+    {
+      "id": 34,
+      "word": "predecessor",
+      "meaning": "[명] 전임자, 선배"
+    },
+    {
+      "id": 35,
+      "word": "impose",
+      "meaning": "[동] ① 부과하다 ② 강요하다"
+    },
+    {
+      "id": 36,
+      "word": "concede",
+      "meaning": "[동] ① 양보하다 ② 인정하다"
+    },
+    {
+      "id": 37,
+      "word": "manipulate",
+      "meaning": "[동] ① 잘 다루다 ② 조작[조종]하다, 속이다"
+    },
+    {
+      "id": 38,
+      "word": "conventional",
+      "meaning": "[형] 관습[관례]적인, 전통적인"
+    },
+    {
+      "id": 39,
+      "word": "oppose",
+      "meaning": "[동] 반대하다, 대항하다"
+    },
+    {
+      "id": 40,
+      "word": "repress",
+      "meaning": "[동] ① (감정을) 참다, 억누르다 ② 탄압하다"
+    },
+    {
+      "id": 41,
+      "word": "refine",
+      "meaning": "[동] ① 정제하다, 불순물을 제거하다\n② 세련되게 하다, 다듬다"
+    },
+    {
+      "id": 42,
+      "word": "emit",
+      "meaning": "[동] 내뿜다, 방출하다"
+    },
+    {
+      "id": 43,
+      "word": "deposit",
+      "meaning": "[명] ① 보증금, 예치금 ② 침전물\n[동] ① 두다, 놓다 ② 예금하다"
+    },
+    {
+      "id": 44,
+      "word": "confine",
+      "meaning": "[동] ① 제한하다, 한정하다\n② 가두다, 감금하다"
+    },
+    {
+      "id": 45,
+      "word": "antecedent",
+      "meaning": "[명] ① 선례 ② 조상\n[형] 선행된, 이전의"
+    },
+    {
+      "id": 46,
+      "word": "deport",
+      "meaning": "[동] ① (국외로) 추방하다\n② (강제로) 이송하다"
+    },
+    {
+      "id": 47,
+      "word": "intermittent",
+      "meaning": "[형] 간헐적인, 간간이 일어나는"
+    },
+    {
+      "id": 48,
+      "word": "infinite",
+      "meaning": "[형] 무한한, 한계가 없는"
+    },
+    {
+      "id": 49,
+      "word": "precede",
+      "meaning": "[동] ① -에 선행하다[앞서다], -보다 먼저 일어나다\n② -보다 우선하다"
+    },
+    {
+      "id": 50,
+      "word": "transmit",
+      "meaning": "[동] ① 전송하다 ② 전염시키다\n③ (열 등을) 전도하다"
+    }
+  ]
+}

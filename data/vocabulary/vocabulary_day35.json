@@ -1,0 +1,255 @@
+{
+  "day": 35,
+  "words": [
+    {
+      "id": 1,
+      "word": "arrogant",
+      "meaning": "[형] 거만한, 오만한"
+    },
+    {
+      "id": 2,
+      "word": "acid",
+      "meaning": "[형] 신맛의, 산(성)의\n[명] 산, 신 것"
+    },
+    {
+      "id": 3,
+      "word": "isolate",
+      "meaning": "[동] 고립시키다, 격리하다"
+    },
+    {
+      "id": 4,
+      "word": "refuse",
+      "meaning": "[동] 거절하다, 거부하다"
+    },
+    {
+      "id": 5,
+      "word": "feast",
+      "meaning": "[명] 잔치, 축제\n[동] 맘껏 먹다"
+    },
+    {
+      "id": 6,
+      "word": "scent",
+      "meaning": "[명] 향기, 냄새\n[동] 냄새 맡다"
+    },
+    {
+      "id": 7,
+      "word": "edible",
+      "meaning": "[형] 식용의, 먹을 수 있는"
+    },
+    {
+      "id": 8,
+      "word": "disaster",
+      "meaning": "[명] 재난, 재해, 재앙"
+    },
+    {
+      "id": 9,
+      "word": "sprout",
+      "meaning": "[동] 싹이 트다, 발아하다\n[명] 새싹"
+    },
+    {
+      "id": 10,
+      "word": "embarrass",
+      "meaning": "[동] 당황하게 하다, 난처하게 하다"
+    },
+    {
+      "id": 11,
+      "word": "approve",
+      "meaning": "[동] ① 찬성하다 ② 허가하다, 승인하다"
+    },
+    {
+      "id": 12,
+      "word": "empire",
+      "meaning": "[명] 제국"
+    },
+    {
+      "id": 13,
+      "word": "odor",
+      "meaning": "[명] (좋지 못한) 냄새"
+    },
+    {
+      "id": 14,
+      "word": "reject",
+      "meaning": "[동] 거절하다, 거부하다"
+    },
+    {
+      "id": 15,
+      "word": "bold",
+      "meaning": "[형] ① 대담한 ② 굵은"
+    },
+    {
+      "id": 16,
+      "word": "dignity",
+      "meaning": "[명] 존엄, 위엄, 품위"
+    },
+    {
+      "id": 17,
+      "word": "swell",
+      "meaning": "[동] 부풀리다, 팽창하다\n[명] 팽창"
+    },
+    {
+      "id": 18,
+      "word": "feat",
+      "meaning": "[명] 공적, 위업"
+    },
+    {
+      "id": 19,
+      "word": "inflation",
+      "meaning": "[명] ① 팽창 ② 통화 팽창, 인플레이션"
+    },
+    {
+      "id": 20,
+      "word": "hierarchy",
+      "meaning": "[명] ① 지배 계층 ② 계급(제), 계층"
+    },
+    {
+      "id": 21,
+      "word": "ferment",
+      "meaning": "[동] 발효시키다\n[명] 효모, 발효"
+    },
+    {
+      "id": 22,
+      "word": "autonomy",
+      "meaning": "[명] ① 자치권, 자율성 ② 자치 국가"
+    },
+    {
+      "id": 23,
+      "word": "monarch",
+      "meaning": "[명] 군주, 최고 지배자"
+    },
+    {
+      "id": 24,
+      "word": "forbid",
+      "meaning": "[동] 금지하다"
+    },
+    {
+      "id": 25,
+      "word": "potable",
+      "meaning": "[형] 마셔도 되는"
+    },
+    {
+      "id": 26,
+      "word": "insulate",
+      "meaning": "[동] 단열[방음·절연] 처리를 하다"
+    },
+    {
+      "id": 27,
+      "word": "polarize",
+      "meaning": "[동] 양극화되다, 양극화시키다"
+    },
+    {
+      "id": 28,
+      "word": "offend",
+      "meaning": "[동] ① 화나게 하다, 기분 상하게 하다\n② 위반하다"
+    },
+    {
+      "id": 29,
+      "word": "arbitrary",
+      "meaning": "[형] ① 임의적인, 제멋대로인\n② 일방적인, 독단적인"
+    },
+    {
+      "id": 30,
+      "word": "calamity",
+      "meaning": "[명] 재난, 재해, 재앙"
+    },
+    {
+      "id": 31,
+      "word": "savor",
+      "meaning": "[동] 맛보다, 음미하다\n[명] 맛"
+    },
+    {
+      "id": 32,
+      "word": "segregate",
+      "meaning": "[동] ① 분리하다, 격리하다 ② (인종) 차별하다"
+    },
+    {
+      "id": 33,
+      "word": "majesty",
+      "meaning": "[명] 위엄, 존엄, 장엄함"
+    },
+    {
+      "id": 34,
+      "word": "sovereign",
+      "meaning": "[명] 군주, 주권자\n[형] ① 주권이 있는 ② 독립의, 자치의"
+    },
+    {
+      "id": 35,
+      "word": "inflammatory",
+      "meaning": "[형] ① 선동적인, 분노를 유발하는\n② 염증을 일으키는"
+    },
+    {
+      "id": 36,
+      "word": "dynasty",
+      "meaning": "[명] 왕조, 명가, 명문"
+    },
+    {
+      "id": 37,
+      "word": "unruly",
+      "meaning": "[형] 제멋대로 하는"
+    },
+    {
+      "id": 38,
+      "word": "cram",
+      "meaning": "[동] ① 밀어[쑤셔] 넣다\n② 벼락치기 공부를 하다"
+    },
+    {
+      "id": 39,
+      "word": "sanction",
+      "meaning": "[동] ① 승인하다 ② 제재하다\n[명] ① 인가 ② 제재"
+    },
+    {
+      "id": 40,
+      "word": "tyranny",
+      "meaning": "[명] ① 폭정, 포악한 행위 ② 전제 정치, 독재"
+    },
+    {
+      "id": 41,
+      "word": "germ",
+      "meaning": "[명] 병균, 세균"
+    },
+    {
+      "id": 42,
+      "word": "overbearing",
+      "meaning": "[형] 고압적인, 거만한"
+    },
+    {
+      "id": 43,
+      "word": "endorse",
+      "meaning": "[동] ① 승인하다, 지지하다, 보증하다\n② (수표 등에) 배서하다"
+    },
+    {
+      "id": 44,
+      "word": "haughty",
+      "meaning": "[형] 오만한, 건방진"
+    },
+    {
+      "id": 45,
+      "word": "catastrophe",
+      "meaning": "[명] 재앙, 대참사"
+    },
+    {
+      "id": 46,
+      "word": "probable",
+      "meaning": "[형] 있음 직한, 가망성이 있는"
+    },
+    {
+      "id": 47,
+      "word": "autocratic",
+      "meaning": "[형] 독재의, 독재적인"
+    },
+    {
+      "id": 48,
+      "word": "quarantine",
+      "meaning": "[동] 격리하다\n[명] 격리, 검역"
+    },
+    {
+      "id": 49,
+      "word": "exasperate",
+      "meaning": "[동] ① 몹시 화나게 하다 ② 악화시키다"
+    },
+    {
+      "id": 50,
+      "word": "fragrant",
+      "meaning": "[형] 향기로운"
+    }
+  ]
+}

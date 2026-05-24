@@ -1,0 +1,255 @@
+{
+  "day": 44,
+  "words": [
+    {
+      "id": 1,
+      "word": "signature",
+      "meaning": "[명] ① 서명 ② 특징"
+    },
+    {
+      "id": 2,
+      "word": "compensation",
+      "meaning": "[명] 보상(금), 배상"
+    },
+    {
+      "id": 3,
+      "word": "full-time",
+      "meaning": "[명] 정규직\n[형] 전 시간 근무의"
+    },
+    {
+      "id": 4,
+      "word": "bid",
+      "meaning": "[명] 입찰"
+    },
+    {
+      "id": 5,
+      "word": "dresscode",
+      "meaning": "복장 규정"
+    },
+    {
+      "id": 6,
+      "word": "wiretransfer",
+      "meaning": "송금"
+    },
+    {
+      "id": 7,
+      "word": "relocate",
+      "meaning": "[동] 이전하다, 이동하다"
+    },
+    {
+      "id": 8,
+      "word": "expirationdate",
+      "meaning": "① (계약서 등의) 만기 날짜\n② (식품의) 유효 기간"
+    },
+    {
+      "id": 9,
+      "word": "jobposting",
+      "meaning": "채용 공고"
+    },
+    {
+      "id": 10,
+      "word": "management",
+      "meaning": "[명] ① 경영, 관리 ② 경영진"
+    },
+    {
+      "id": 11,
+      "word": "outsource",
+      "meaning": "[동] 외부에 위탁하다"
+    },
+    {
+      "id": 12,
+      "word": "attire",
+      "meaning": "[명] 복장, 옷차림새"
+    },
+    {
+      "id": 13,
+      "word": "maternityleave",
+      "meaning": "출산 휴가, 육아 휴직"
+    },
+    {
+      "id": 14,
+      "word": "operatingfund",
+      "meaning": "운영 기금"
+    },
+    {
+      "id": 15,
+      "word": "coverletter",
+      "meaning": "자기소개서"
+    },
+    {
+      "id": 16,
+      "word": "creditcard\nstatement",
+      "meaning": "신용 카드 명세서"
+    },
+    {
+      "id": 17,
+      "word": "career\nadvancement",
+      "meaning": "승진"
+    },
+    {
+      "id": 18,
+      "word": "renewal",
+      "meaning": "[명] 갱신, 재개발"
+    },
+    {
+      "id": 19,
+      "word": "in-house",
+      "meaning": "[형] 사내의\n[부] 사내에서"
+    },
+    {
+      "id": 20,
+      "word": "portfolio",
+      "meaning": "[명] ① 포트폴리오 ② 투자 자산 구성"
+    },
+    {
+      "id": 21,
+      "word": "atnocharge",
+      "meaning": "무료로"
+    },
+    {
+      "id": 22,
+      "word": "schooltranscript",
+      "meaning": "성적 증명서"
+    },
+    {
+      "id": 23,
+      "word": "administrative",
+      "meaning": "[명] 행정의, 관리의"
+    },
+    {
+      "id": 24,
+      "word": "OJT\n(on-the-job\ntraining)",
+      "meaning": "[명] 사내 교육, 현장 직무 교육"
+    },
+    {
+      "id": 25,
+      "word": "fine",
+      "meaning": "[명] 벌금\n[동] 벌금을 부과하다\n[형] ① 좋은 ② 미세한"
+    },
+    {
+      "id": 26,
+      "word": "employment\nagreement",
+      "meaning": "고용 계약(서), 취업 동의서"
+    },
+    {
+      "id": 27,
+      "word": "deficit",
+      "meaning": "[명] 적자, 결손"
+    },
+    {
+      "id": 28,
+      "word": "backgroundcheck",
+      "meaning": "신원 조사"
+    },
+    {
+      "id": 29,
+      "word": "beneficiary",
+      "meaning": "[명] 수혜자, 수익자, 수취인"
+    },
+    {
+      "id": 30,
+      "word": "paidposition",
+      "meaning": "유급직"
+    },
+    {
+      "id": 31,
+      "word": "transaction",
+      "meaning": "[명] ① 거래 ② 처리, 집행"
+    },
+    {
+      "id": 32,
+      "word": "onboarding",
+      "meaning": "[명] 신입사원 적응 프로그램, 신입 교육"
+    },
+    {
+      "id": 33,
+      "word": "committee",
+      "meaning": "[명] 위원회"
+    },
+    {
+      "id": 34,
+      "word": "installment",
+      "meaning": "[명] 할부"
+    },
+    {
+      "id": 35,
+      "word": "workethic",
+      "meaning": "직업 윤리"
+    },
+    {
+      "id": 36,
+      "word": "head",
+      "meaning": "[명] 우두머리, 책임자\n[동] ① 책임지다 ② 향하다"
+    },
+    {
+      "id": 37,
+      "word": "monitor",
+      "meaning": "[동] 감독하다, 감시하다, 검토하다\n[명] 화면, 모니터"
+    },
+    {
+      "id": 38,
+      "word": "fiscal",
+      "meaning": "[형] 재정의, 회계의"
+    },
+    {
+      "id": 39,
+      "word": "referenceletter",
+      "meaning": "추천서"
+    },
+    {
+      "id": 40,
+      "word": "balance",
+      "meaning": "[명] ① 잔고, 잔액 ② 균형 상태\n[동] 균형을 잡다"
+    },
+    {
+      "id": 41,
+      "word": "exemplary",
+      "meaning": "[형] 모범적인, 본보기가 되는"
+    },
+    {
+      "id": 42,
+      "word": "payroll",
+      "meaning": "[명] ① 임금 대장, 급료 명부 ② 급료 총액"
+    },
+    {
+      "id": 43,
+      "word": "contractposition",
+      "meaning": "계약직"
+    },
+    {
+      "id": 44,
+      "word": "bycheck",
+      "meaning": "수표로"
+    },
+    {
+      "id": 45,
+      "word": "unemployment",
+      "meaning": "[명] 실업, 실직 (상태)"
+    },
+    {
+      "id": 46,
+      "word": "subcontract",
+      "meaning": "[명] 하청 계약\n[동] 하청을 주다"
+    },
+    {
+      "id": 47,
+      "word": "disciplinary",
+      "meaning": "[형] ① 훈련상의, 훈육의 ② 규율상의, 징계의"
+    },
+    {
+      "id": 48,
+      "word": "turnover",
+      "meaning": "[명] ① 이직률 ② 총매상고 ③ 거래액"
+    },
+    {
+      "id": 49,
+      "word": "maritalstatus",
+      "meaning": "결혼 여부, 배우자 관계"
+    },
+    {
+      "id": 50,
+      "word": "early\nterminationfee",
+      "meaning": "중도 해지 수수료"
+    }
+  ]
+}

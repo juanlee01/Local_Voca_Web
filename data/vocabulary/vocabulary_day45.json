@@ -1,0 +1,255 @@
+{
+  "day": 45,
+  "words": [
+    {
+      "id": 1,
+      "word": "venue",
+      "meaning": "[명] (콘서트·스포츠 경기·회담 등의) 장소"
+    },
+    {
+      "id": 2,
+      "word": "timely",
+      "meaning": "[형] 시기적절한, 때맞춘"
+    },
+    {
+      "id": 3,
+      "word": "refreshment",
+      "meaning": "[명] ① 다과 ② 원기 회복"
+    },
+    {
+      "id": 4,
+      "word": "post",
+      "meaning": "[동] 게시하다, 공고하다\n[명] 기둥"
+    },
+    {
+      "id": 5,
+      "word": "recital",
+      "meaning": "[명] ① 연주회 ② 암송, 낭독"
+    },
+    {
+      "id": 6,
+      "word": "hands-on",
+      "meaning": "[형] 직접 해 보는, 실천하는"
+    },
+    {
+      "id": 7,
+      "word": "poweroutage",
+      "meaning": "정전, 송전 정지"
+    },
+    {
+      "id": 8,
+      "word": "brochure",
+      "meaning": "[명] (홍보용) 소책자, 브로슈어"
+    },
+    {
+      "id": 9,
+      "word": "book",
+      "meaning": "[동] 예약하다\n[명] 책"
+    },
+    {
+      "id": 10,
+      "word": "convention",
+      "meaning": "[명] 회의, 대회"
+    },
+    {
+      "id": 11,
+      "word": "amenity",
+      "meaning": "[명] (생활 관련) 편의 시설"
+    },
+    {
+      "id": 12,
+      "word": "cuisine",
+      "meaning": "[명] 요리(법)"
+    },
+    {
+      "id": 13,
+      "word": "booklet",
+      "meaning": "[명] 소책자"
+    },
+    {
+      "id": 14,
+      "word": "civilcomplaint",
+      "meaning": "민원"
+    },
+    {
+      "id": 15,
+      "word": "banquet",
+      "meaning": "[명] 연회, 만찬"
+    },
+    {
+      "id": 16,
+      "word": "turnout",
+      "meaning": "[명] 참가자의 수, 참석률, 투표자 수"
+    },
+    {
+      "id": 17,
+      "word": "handout",
+      "meaning": "[명] 유인물, 배포 자료"
+    },
+    {
+      "id": 18,
+      "word": "admission",
+      "meaning": "[명] 입장, 입학"
+    },
+    {
+      "id": 19,
+      "word": "keynote",
+      "meaning": "[명] 기조, 요지"
+    },
+    {
+      "id": 20,
+      "word": "exposition",
+      "meaning": "[명] ① 박람회, 전시회 ② 설명"
+    },
+    {
+      "id": 21,
+      "word": "audiovisual",
+      "meaning": "[형] 시청각의"
+    },
+    {
+      "id": 22,
+      "word": "entry",
+      "meaning": "[명] ① 가입, 참가, 입장, 들어감 ② 입장권\n③ 입구, 현관"
+    },
+    {
+      "id": 23,
+      "word": "registration",
+      "meaning": "[명] 등록, 접수"
+    },
+    {
+      "id": 24,
+      "word": "patronize",
+      "meaning": "[동] 애용하다, 후원하다"
+    },
+    {
+      "id": 25,
+      "word": "easy-to-follow\ninstructions",
+      "meaning": "따라 하기 쉬운 설명"
+    },
+    {
+      "id": 26,
+      "word": "showcase",
+      "meaning": "[동] 전시하다, 소개하다"
+    },
+    {
+      "id": 27,
+      "word": "electronically",
+      "meaning": "[부] 컴퓨터 통신망으로, 컴퓨터로"
+    },
+    {
+      "id": 28,
+      "word": "opening",
+      "meaning": "[명] ① 개장, 개시 ② (일자리) 공석"
+    },
+    {
+      "id": 29,
+      "word": "residential",
+      "meaning": "[형] ① 주거의, 거주의 ② 주택용의"
+    },
+    {
+      "id": 30,
+      "word": "farewellgathering",
+      "meaning": "환송 모임, 송별회"
+    },
+    {
+      "id": 31,
+      "word": "designatedarea",
+      "meaning": "지정된 장소"
+    },
+    {
+      "id": 32,
+      "word": "attendee",
+      "meaning": "[명] ① 참석자 ② 출석자"
+    },
+    {
+      "id": 33,
+      "word": "layout",
+      "meaning": "[명] 배치(도), 배정"
+    },
+    {
+      "id": 34,
+      "word": "redeemable",
+      "meaning": "[형] (현금이나 상품과) 교환할 수 있는"
+    },
+    {
+      "id": 35,
+      "word": "outreachprogram",
+      "meaning": "지원 활동, 구제 활동"
+    },
+    {
+      "id": 36,
+      "word": "restassured",
+      "meaning": "안심하세요"
+    },
+    {
+      "id": 37,
+      "word": "catering",
+      "meaning": "[명] 출장 요리, 음식 공급(업)"
+    },
+    {
+      "id": 38,
+      "word": "voucher",
+      "meaning": "[명] (현금 대용의) 상품권"
+    },
+    {
+      "id": 39,
+      "word": "sightseeing",
+      "meaning": "[명] 관광, 유람"
+    },
+    {
+      "id": 40,
+      "word": "reunion",
+      "meaning": "[명] ① 친목회, 모임, 동창회 ② 재회, 재통합"
+    },
+    {
+      "id": 41,
+      "word": "seamless",
+      "meaning": "[형] 매끄러운, 순조로운"
+    },
+    {
+      "id": 42,
+      "word": "observance",
+      "meaning": "[명] ① (축제 등의) 기념 ② (법규 등의) 준수"
+    },
+    {
+      "id": 43,
+      "word": "culinary",
+      "meaning": "[형] 요리의"
+    },
+    {
+      "id": 44,
+      "word": "attentively",
+      "meaning": "[부] 주의 깊게, 조심스럽게"
+    },
+    {
+      "id": 45,
+      "word": "alumni",
+      "meaning": "[명] 동창생들, 졸업생들"
+    },
+    {
+      "id": 46,
+      "word": "state-certified",
+      "meaning": "[형] 국가 공인의"
+    },
+    {
+      "id": 47,
+      "word": "complimentary",
+      "meaning": "[형] 무료의"
+    },
+    {
+      "id": 48,
+      "word": "proceeds",
+      "meaning": "[명] 수익금"
+    },
+    {
+      "id": 49,
+      "word": "online\ninquiryform",
+      "meaning": "온라인 문의 양식"
+    },
+    {
+      "id": 50,
+      "word": "picturesque",
+      "meaning": "[형] 그림 같은"
+    }
+  ]
+}

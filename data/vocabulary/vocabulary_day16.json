@@ -1,0 +1,255 @@
+{
+  "day": 16,
+  "words": [
+    {
+      "id": 1,
+      "word": "afford",
+      "meaning": "[동] -할 여유가 있다, -을 살 형편이 되다"
+    },
+    {
+      "id": 2,
+      "word": "nervous",
+      "meaning": "[형] ① 불안해하는, 초조한 ② 신경의"
+    },
+    {
+      "id": 3,
+      "word": "adequate",
+      "meaning": "[형] 충분한, 적당한"
+    },
+    {
+      "id": 4,
+      "word": "terminal",
+      "meaning": "[형] 말기의, 불치의\n[명] 종착역, 종점"
+    },
+    {
+      "id": 5,
+      "word": "ultimate",
+      "meaning": "[형] 최후의, 궁극적인, 절대적인"
+    },
+    {
+      "id": 6,
+      "word": "furious",
+      "meaning": "[형] ① 격노한 ② 맹렬한"
+    },
+    {
+      "id": 7,
+      "word": "ample",
+      "meaning": "[형] 충분한, 풍부한"
+    },
+    {
+      "id": 8,
+      "word": "fright",
+      "meaning": "[명] 공포, 경악"
+    },
+    {
+      "id": 9,
+      "word": "anxious",
+      "meaning": "[형] ① 걱정하는 ② 열망하는, 갈망하는"
+    },
+    {
+      "id": 10,
+      "word": "enormous",
+      "meaning": "[형] 엄청난, 거대한, 막대한"
+    },
+    {
+      "id": 11,
+      "word": "intense",
+      "meaning": "[형] ① 강렬한, 극심한 ② 열정적인, 진지한"
+    },
+    {
+      "id": 12,
+      "word": "armor",
+      "meaning": "[명] 갑옷\n[동] 무장하다"
+    },
+    {
+      "id": 13,
+      "word": "mammal",
+      "meaning": "[명] 포유동물"
+    },
+    {
+      "id": 14,
+      "word": "abound",
+      "meaning": "[동] 풍부하다, 충분하다, 많이 있다"
+    },
+    {
+      "id": 15,
+      "word": "eliminate",
+      "meaning": "[동] 없애다, 제거하다"
+    },
+    {
+      "id": 16,
+      "word": "immense",
+      "meaning": "[형] 엄청난, 거대한, 막대한"
+    },
+    {
+      "id": 17,
+      "word": "bark",
+      "meaning": "[동] (개가) 짖다\n[명] 나무껍질"
+    },
+    {
+      "id": 18,
+      "word": "crawl",
+      "meaning": "[동] 기어가다, 포복하다\n[명] ① 기어감, 포복 ② 서행"
+    },
+    {
+      "id": 19,
+      "word": "terminate",
+      "meaning": "[동] 끝내다, 종료하다"
+    },
+    {
+      "id": 20,
+      "word": "severe",
+      "meaning": "[형] ① 극심한, 심각한 ② 엄격한"
+    },
+    {
+      "id": 21,
+      "word": "mighty",
+      "meaning": "[형] 강력한, 힘센"
+    },
+    {
+      "id": 22,
+      "word": "creep",
+      "meaning": "[동] 살금살금 움직이다, 기다"
+    },
+    {
+      "id": 23,
+      "word": "redundant",
+      "meaning": "[형] ① 과잉의, 불필요한 ② 장황한"
+    },
+    {
+      "id": 24,
+      "word": "gigantic",
+      "meaning": "[형] 거대한"
+    },
+    {
+      "id": 25,
+      "word": "luxuriant",
+      "meaning": "[형] ① 풍부한 ② 화려한, 번창한\n③ 기름진, 다산의"
+    },
+    {
+      "id": 26,
+      "word": "steep",
+      "meaning": "[형] 가파른"
+    },
+    {
+      "id": 27,
+      "word": "roar",
+      "meaning": "[동] ① 고함치다 ② (동물이) 으르렁거리다\n[명] ① 고함, 아우성 ② 포효"
+    },
+    {
+      "id": 28,
+      "word": "tremendous",
+      "meaning": "[형] ① 엄청난, 거대한 ② 무시무시한"
+    },
+    {
+      "id": 29,
+      "word": "scar",
+      "meaning": "[명] 흉터, 자국\n[동] -에 상처를 남기다"
+    },
+    {
+      "id": 30,
+      "word": "dread",
+      "meaning": "[명] 공포, 불안\n[동] 두려워하다, 무서워하다"
+    },
+    {
+      "id": 31,
+      "word": "warlike",
+      "meaning": "[형] ① 전쟁의 ② 호전적인, 도전적인"
+    },
+    {
+      "id": 32,
+      "word": "inflict",
+      "meaning": "[동] ① (상처를) 입히다\n② (형벌·고통을) 가하다, 주다"
+    },
+    {
+      "id": 33,
+      "word": "predator",
+      "meaning": "[명] ① 약탈자 ② 포식동물, 육식동물"
+    },
+    {
+      "id": 34,
+      "word": "tactic",
+      "meaning": "[명] ① 전략, 방법 ② 전술[pl.]"
+    },
+    {
+      "id": 35,
+      "word": "radical",
+      "meaning": "[형] ① 근본적인, 기본적인 ② 급진적인, 과격한\n[명] 급진주의자"
+    },
+    {
+      "id": 36,
+      "word": "bulky",
+      "meaning": "[형] 부피가 큰, 커서 다루기 힘든"
+    },
+    {
+      "id": 37,
+      "word": "collapse",
+      "meaning": "[동] 붕괴하다, 무너지다\n[명] 붕괴, 실패"
+    },
+    {
+      "id": 38,
+      "word": "fierce",
+      "meaning": "[형] ① 사나운 ② 맹렬한"
+    },
+    {
+      "id": 39,
+      "word": "copious",
+      "meaning": "[형] 많은, 풍부한"
+    },
+    {
+      "id": 40,
+      "word": "paw",
+      "meaning": "[명] (동물의) 발"
+    },
+    {
+      "id": 41,
+      "word": "exterminate",
+      "meaning": "[동] 몰살시키다, 전멸시키다"
+    },
+    {
+      "id": 42,
+      "word": "haunt",
+      "meaning": "[동] ① (유령이) 나오다, 출몰하다\n② (불쾌한 생각·기억이) 떠오르다"
+    },
+    {
+      "id": 43,
+      "word": "warfare",
+      "meaning": "[명] 전쟁, 전투"
+    },
+    {
+      "id": 44,
+      "word": "drastic",
+      "meaning": "[형] 과감한, 격렬한, 급격한"
+    },
+    {
+      "id": 45,
+      "word": "abolish",
+      "meaning": "[동] 폐지하다, 없애다"
+    },
+    {
+      "id": 46,
+      "word": "rage",
+      "meaning": "[동] 분노하다, 몹시 화내다\n[명] 분노, 격분"
+    },
+    {
+      "id": 47,
+      "word": "annihilate",
+      "meaning": "[동] ① 전멸시키다 ② 완파하다"
+    },
+    {
+      "id": 48,
+      "word": "ruthless",
+      "meaning": "[형] 무자비한, 가차 없는"
+    },
+    {
+      "id": 49,
+      "word": "uproot",
+      "meaning": "[동] 뿌리째 뽑다, 근절하다"
+    },
+    {
+      "id": 50,
+      "word": "fundamental",
+      "meaning": "[형] ① 근본적인, 기본적인\n② 핵심적인, 필수적인"
+    }
+  ]
+}

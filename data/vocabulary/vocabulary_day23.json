@@ -1,0 +1,255 @@
+{
+  "day": 23,
+  "words": [
+    {
+      "id": 1,
+      "word": "pirate",
+      "meaning": "[명] ① 해적 ② 불법 복제\n[동] ① 약탈하다 ② 표절하다, 불법 복제하다"
+    },
+    {
+      "id": 2,
+      "word": "recover",
+      "meaning": "[동] ① 회복하다 ② 되찾다, 회수하다"
+    },
+    {
+      "id": 3,
+      "word": "compete",
+      "meaning": "[동] 경쟁하다, 겨루다"
+    },
+    {
+      "id": 4,
+      "word": "capital",
+      "meaning": "[명] ① 수도 ② 대문자 ③ 자본\n[형] ① 주요한 ② 자본의"
+    },
+    {
+      "id": 5,
+      "word": "staple",
+      "meaning": "[형] 주요한\n[명] 주요 산물"
+    },
+    {
+      "id": 6,
+      "word": "flexible",
+      "meaning": "[형] ① 탄력적인, 융통성 있는\n② 유연한, 구부리기 쉬운"
+    },
+    {
+      "id": 7,
+      "word": "crucial",
+      "meaning": "[형] 중요한, 결정적인"
+    },
+    {
+      "id": 8,
+      "word": "competent",
+      "meaning": "[형] 유능한, 능력[자격]이 있는"
+    },
+    {
+      "id": 9,
+      "word": "clumsy",
+      "meaning": "[형] 어색한, 서투른, 어설픈"
+    },
+    {
+      "id": 10,
+      "word": "tidy",
+      "meaning": "[형] 단정한, 깔끔한"
+    },
+    {
+      "id": 11,
+      "word": "imitate",
+      "meaning": "[동] ① 모방하다, 흉내 내다 ② 모사[모조]하다"
+    },
+    {
+      "id": 12,
+      "word": "urgent",
+      "meaning": "[형] 긴급한, 시급한"
+    },
+    {
+      "id": 13,
+      "word": "artificial",
+      "meaning": "[형] ① 인공의, 인위적인 ② 거짓된, 꾸민"
+    },
+    {
+      "id": 14,
+      "word": "neglect",
+      "meaning": "[동] ① 무시하다 ② 방치하다, 소홀히 하다\n[명] ① 무시 ② 방치, 태만"
+    },
+    {
+      "id": 15,
+      "word": "contend",
+      "meaning": "[동] ① 다투다, 경쟁하다, 싸우다 ② 주장하다"
+    },
+    {
+      "id": 16,
+      "word": "ripen",
+      "meaning": "[동] 익다[익히다], 숙성하다[숙성시키다]"
+    },
+    {
+      "id": 17,
+      "word": "pliable",
+      "meaning": "[형] ① 유연한 ② 순응적인"
+    },
+    {
+      "id": 18,
+      "word": "capable",
+      "meaning": "[형] 유능한, -할 수 있는"
+    },
+    {
+      "id": 19,
+      "word": "courteous",
+      "meaning": "[형] 예의 바른"
+    },
+    {
+      "id": 20,
+      "word": "forge",
+      "meaning": "[동] ① 만들다, 구축하다 ② 위조하다"
+    },
+    {
+      "id": 21,
+      "word": "ignore",
+      "meaning": "[동] 무시하다"
+    },
+    {
+      "id": 22,
+      "word": "awkward",
+      "meaning": "[형] 어색한, 서투른, 불편한"
+    },
+    {
+      "id": 23,
+      "word": "capacity",
+      "meaning": "[명] ① 용량, 수용력 ② 능력"
+    },
+    {
+      "id": 24,
+      "word": "milestone",
+      "meaning": "[명] ① 이정표\n② 획기적인[중요한] 사건, 중대 시점"
+    },
+    {
+      "id": 25,
+      "word": "mimic",
+      "meaning": "[동] 모방하다, 흉내 내다\n[형] 가짜[모조]의\n[명] 흉내쟁이"
+    },
+    {
+      "id": 26,
+      "word": "mature",
+      "meaning": "[형] 익은, 성숙한"
+    },
+    {
+      "id": 27,
+      "word": "resilient",
+      "meaning": "[형] 탄력성이 있는, 잘 회복하는"
+    },
+    {
+      "id": 28,
+      "word": "faculty",
+      "meaning": "[명] ① 능력 ② 학부 ③ 교수단"
+    },
+    {
+      "id": 29,
+      "word": "pressing",
+      "meaning": "[형] 긴급한, 절박한, 임박한"
+    },
+    {
+      "id": 30,
+      "word": "fraud",
+      "meaning": "[명] 사기(꾼)"
+    },
+    {
+      "id": 31,
+      "word": "prime",
+      "meaning": "[형] ① 주요한, 주된 ② 최고의\n[명] ① 전성기 ② 초기"
+    },
+    {
+      "id": 32,
+      "word": "elastic",
+      "meaning": "[형] 탄력 있는, 유연한"
+    },
+    {
+      "id": 33,
+      "word": "fabricate",
+      "meaning": "[동] ① 만들다 ② 조작하다, 위조하다"
+    },
+    {
+      "id": 34,
+      "word": "decisive",
+      "meaning": "[형] 결정적인, 확정적인"
+    },
+    {
+      "id": 35,
+      "word": "emulate",
+      "meaning": "[동] 모방하다"
+    },
+    {
+      "id": 36,
+      "word": "primary",
+      "meaning": "[형] ① 주요한 ② 최초의, 초기의"
+    },
+    {
+      "id": 37,
+      "word": "falsify",
+      "meaning": "[동] ① 속이다, 위조하다\n② 틀렸음을 입증하다"
+    },
+    {
+      "id": 38,
+      "word": "profitable",
+      "meaning": "[형] ① 수익성이 있는 ② 유익한"
+    },
+    {
+      "id": 39,
+      "word": "plagiarize",
+      "meaning": "[동] 표절하다"
+    },
+    {
+      "id": 40,
+      "word": "principal",
+      "meaning": "[형] 주요한, 주된, 제일의\n[명] 우두머리, 교장"
+    },
+    {
+      "id": 41,
+      "word": "restore",
+      "meaning": "[동] ① 회복시키다 ② 되찾다, 복원[복구]하다"
+    },
+    {
+      "id": 42,
+      "word": "camouflage",
+      "meaning": "[명] 위장\n[동] 위장하다, 감추다"
+    },
+    {
+      "id": 43,
+      "word": "decent",
+      "meaning": "[형] ① 예의 바른, 품위 있는\n② 제대로 된, 괜찮은"
+    },
+    {
+      "id": 44,
+      "word": "breakthrough",
+      "meaning": "[명] ① 돌파구 ② 획기적 발전"
+    },
+    {
+      "id": 45,
+      "word": "foolproof",
+      "meaning": "[형] ① 실패할[잘못될] 염려가 없는\n② 누구나 다룰 수 있는, 아주 간단한"
+    },
+    {
+      "id": 46,
+      "word": "emergency",
+      "meaning": "[명] 비상 (사태)\n[형] 비상용의, 긴급한"
+    },
+    {
+      "id": 47,
+      "word": "imperative",
+      "meaning": "[형] ① 필수적인, 긴급한 ② 명령적인"
+    },
+    {
+      "id": 48,
+      "word": "momentous",
+      "meaning": "[형] 중대한, 중요한"
+    },
+    {
+      "id": 49,
+      "word": "marginal",
+      "meaning": "[형] ① 가장자리의, 중요하지 않은 ② 한계의"
+    },
+    {
+      "id": 50,
+      "word": "fake",
+      "meaning": "[명] ① 위조품 ② 사기(꾼)\n[형] 가짜의, 위조의\n[동] 위조하다, 꾸며내다"
+    }
+  ]
+}

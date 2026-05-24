@@ -1,0 +1,255 @@
+{
+  "day": 42,
+  "words": [
+    {
+      "id": 1,
+      "word": "semester",
+      "meaning": "[명] 학기"
+    },
+    {
+      "id": 2,
+      "word": "annual",
+      "meaning": "[형] 해마다의, 연간의"
+    },
+    {
+      "id": 3,
+      "word": "apply",
+      "meaning": "[동] ① 적용하다 ② 지원하다, 신청하다\n③ (페인트·크림 등을) 바르다"
+    },
+    {
+      "id": 4,
+      "word": "archive",
+      "meaning": "[명] 문서 보관소, 자료실"
+    },
+    {
+      "id": 5,
+      "word": "orient",
+      "meaning": "[명] (the Orient) 동양\n[동] ① 지향하게 하다 ② 적응시키다, 지도하다"
+    },
+    {
+      "id": 6,
+      "word": "register",
+      "meaning": "[동] 등록하다, 기록하다\n[명] 등록부, 기록부"
+    },
+    {
+      "id": 7,
+      "word": "farewell",
+      "meaning": "[명] 작별 (인사)\n[형] 이별의, 작별의"
+    },
+    {
+      "id": 8,
+      "word": "appreciate",
+      "meaning": "[동] ① 감사하다 ② 감상하다 ③ 이해하다"
+    },
+    {
+      "id": 9,
+      "word": "ancient",
+      "meaning": "[형] 고대의, 옛날의"
+    },
+    {
+      "id": 10,
+      "word": "term",
+      "meaning": "[명] ① 용어 ② 관점, 측면\n③ 학기 ④ 기간"
+    },
+    {
+      "id": 11,
+      "word": "chronicle",
+      "meaning": "[명] 연대기, 기록\n[동] 연대순으로 기록하다"
+    },
+    {
+      "id": 12,
+      "word": "attend",
+      "meaning": "[동] ① 출석하다, 참석하다 ② 시중들다, 수행하다"
+    },
+    {
+      "id": 13,
+      "word": "diploma",
+      "meaning": "[명] ① 졸업장 ② 공문서"
+    },
+    {
+      "id": 14,
+      "word": "volunteer",
+      "meaning": "[동] 지원하다, 자원하다\n[명] 지원자, 자원봉사자"
+    },
+    {
+      "id": 15,
+      "word": "monument",
+      "meaning": "[명] 기념물, 기념비[탑]"
+    },
+    {
+      "id": 16,
+      "word": "gravity",
+      "meaning": "[명] ① 중력 ② 진지함, 엄숙함"
+    },
+    {
+      "id": 17,
+      "word": "nowadays",
+      "meaning": "[부] 현재, 요즘"
+    },
+    {
+      "id": 18,
+      "word": "frontier",
+      "meaning": "[명] ① 국경 (지방) ② 미개척 분야"
+    },
+    {
+      "id": 19,
+      "word": "medieval",
+      "meaning": "[형] 중세의, 중세풍의"
+    },
+    {
+      "id": 20,
+      "word": "session",
+      "meaning": "[명] ① 시간, 기간 ② (의회 등의) 회기, 개회 기간\n③ (대학의) 학기"
+    },
+    {
+      "id": 21,
+      "word": "forum",
+      "meaning": "[명] 포럼, 공개 토론장, 토론회"
+    },
+    {
+      "id": 22,
+      "word": "overestimate",
+      "meaning": "[동] 과대평가하다"
+    },
+    {
+      "id": 23,
+      "word": "ancestor",
+      "meaning": "[명] 조상, 선조"
+    },
+    {
+      "id": 24,
+      "word": "enroll",
+      "meaning": "[동] 명부에 올리다, 등록하다"
+    },
+    {
+      "id": 25,
+      "word": "grave",
+      "meaning": "[형] ① 무거운 ② 심각한\n[명] 무덤"
+    },
+    {
+      "id": 26,
+      "word": "souvenir",
+      "meaning": "[명] 기념품, 선물"
+    },
+    {
+      "id": 27,
+      "word": "era",
+      "meaning": "[명] 연대, 시대"
+    },
+    {
+      "id": 28,
+      "word": "recollect",
+      "meaning": "[동] 회상하다, 생각해 내다"
+    },
+    {
+      "id": 29,
+      "word": "depreciate",
+      "meaning": "[동] 가치가 떨어지다, 가치를 떨어뜨리다"
+    },
+    {
+      "id": 30,
+      "word": "range",
+      "meaning": "[동] (범위가) 이르다[다양하다] (from A to B)\n[명] 범위, 영역"
+    },
+    {
+      "id": 31,
+      "word": "decade",
+      "meaning": "[명] 10년"
+    },
+    {
+      "id": 32,
+      "word": "discern",
+      "meaning": "[동] ① 구별[분별]하다, 구분하다 ② 인식하다"
+    },
+    {
+      "id": 33,
+      "word": "appraise",
+      "meaning": "[동] 평가하다, 감정하다"
+    },
+    {
+      "id": 34,
+      "word": "displace",
+      "meaning": "[동] ① 내쫓다, 옮기다 ② 대신[대체]하다"
+    },
+    {
+      "id": 35,
+      "word": "immemorial",
+      "meaning": "[형] 먼 옛날의, 태곳적부터의"
+    },
+    {
+      "id": 36,
+      "word": "separate",
+      "meaning": "[형] 분리된, 별개의\n[동] 분리하다, 별거하다"
+    },
+    {
+      "id": 37,
+      "word": "biennial",
+      "meaning": "[형] 격년의, 2년마다의"
+    },
+    {
+      "id": 38,
+      "word": "bachelor",
+      "meaning": "[명] ① 미혼 남성 ② 학사 (학위)"
+    },
+    {
+      "id": 39,
+      "word": "unattended",
+      "meaning": "[형] 관심을 기울이지 않은, 방치된"
+    },
+    {
+      "id": 40,
+      "word": "antique",
+      "meaning": "[형] 골동품의, 고대의\n[명] 골동품"
+    },
+    {
+      "id": 41,
+      "word": "value",
+      "meaning": "[동] ① 평가하다 ② 소중하게 생각하다\n[명] ① 가치, 가격 ② 평가"
+    },
+    {
+      "id": 42,
+      "word": "epoch",
+      "meaning": "[명] 신기원, 시대"
+    },
+    {
+      "id": 43,
+      "word": "discriminate",
+      "meaning": "[동] ① 구별하다 ② 차별하다"
+    },
+    {
+      "id": 44,
+      "word": "evaluate",
+      "meaning": "[동] 평가하다, 감정하다"
+    },
+    {
+      "id": 45,
+      "word": "reminiscent",
+      "meaning": "[형] ① 연상시키는, 생각나게 하는 (of)\n② 추억에 잠긴, 옛날을 회상하는"
+    },
+    {
+      "id": 46,
+      "word": "divorce",
+      "meaning": "[동] ① 이혼하다 ② 분리하다\n[명] ① 이혼 ② 분리"
+    },
+    {
+      "id": 47,
+      "word": "primitive",
+      "meaning": "[형] ① 원시의, 원시 시대의 ② 원시적인, 야만의"
+    },
+    {
+      "id": 48,
+      "word": "discrete",
+      "meaning": "[형] 별개의, 분리된"
+    },
+    {
+      "id": 49,
+      "word": "aboriginal",
+      "meaning": "[형] 토착의, 원주민의"
+    },
+    {
+      "id": 50,
+      "word": "diversity",
+      "meaning": "[명] 다양성"
+    }
+  ]
+}

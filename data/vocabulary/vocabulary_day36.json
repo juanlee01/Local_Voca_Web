@@ -1,0 +1,255 @@
+{
+  "day": 36,
+  "words": [
+    {
+      "id": 1,
+      "word": "testify",
+      "meaning": "[동] ① 증언하다 ② 증명하다"
+    },
+    {
+      "id": 2,
+      "word": "confess",
+      "meaning": "[동] ① 고백하다, 자백하다 ② 인정하다"
+    },
+    {
+      "id": 3,
+      "word": "threat",
+      "meaning": "[명] 위협"
+    },
+    {
+      "id": 4,
+      "word": "sentence",
+      "meaning": "[명] ① 문장 ② 형벌, 선고\n[동] (형을) 선고하다"
+    },
+    {
+      "id": 5,
+      "word": "choke",
+      "meaning": "[동] 숨이 막히다, 질식시키다"
+    },
+    {
+      "id": 6,
+      "word": "irritate",
+      "meaning": "[동] 짜증 나게 하다, 화나게 하다"
+    },
+    {
+      "id": 7,
+      "word": "judicial",
+      "meaning": "[형] 사법의"
+    },
+    {
+      "id": 8,
+      "word": "strive",
+      "meaning": "[동] ① 노력하다, 애쓰다 ② 투쟁하다"
+    },
+    {
+      "id": 9,
+      "word": "attorney",
+      "meaning": "[명] 대리인, 변호사"
+    },
+    {
+      "id": 10,
+      "word": "dispute",
+      "meaning": "[동] ① 반박하다 ② 논쟁하다\n[명] 논쟁, 분쟁"
+    },
+    {
+      "id": 11,
+      "word": "punish",
+      "meaning": "[동] 벌주다, 처벌하다"
+    },
+    {
+      "id": 12,
+      "word": "verify",
+      "meaning": "[동] ① 입증하다, 증명하다 ② 확인하다"
+    },
+    {
+      "id": 13,
+      "word": "accuse",
+      "meaning": "[동] ① 비난하다 ② 고발[고소, 기소]하다"
+    },
+    {
+      "id": 14,
+      "word": "innocent",
+      "meaning": "[형] ① 무죄인, 결백한 ② 순진한"
+    },
+    {
+      "id": 15,
+      "word": "bother",
+      "meaning": "[동] ① 귀찮게 하다, 괴롭히다 ② 걱정하다"
+    },
+    {
+      "id": 16,
+      "word": "afflict",
+      "meaning": "[동] 괴롭히다, 피해를 입히다"
+    },
+    {
+      "id": 17,
+      "word": "repent",
+      "meaning": "[동] 후회하다"
+    },
+    {
+      "id": 18,
+      "word": "criticize",
+      "meaning": "[동] 비판하다, 비난하다"
+    },
+    {
+      "id": 19,
+      "word": "ridicule",
+      "meaning": "[동] 비웃다, 조롱하다\n[명] 비웃음, 조롱"
+    },
+    {
+      "id": 20,
+      "word": "tease",
+      "meaning": "[동] 괴롭히다, 놀리다"
+    },
+    {
+      "id": 21,
+      "word": "condemn",
+      "meaning": "[동] ① 비난하다 ② (형을) 선고하다"
+    },
+    {
+      "id": 22,
+      "word": "reprehend",
+      "meaning": "[동] 책망하다, 비난하다"
+    },
+    {
+      "id": 23,
+      "word": "release",
+      "meaning": "[동] ① 풀어 주다, 석방하다\n② 발표하다, 개봉하다 ③ 방출하다\n[명] ① 석방 ② 발표 ③ 방출"
+    },
+    {
+      "id": 24,
+      "word": "practice",
+      "meaning": "[동] ① 연습하다 ② 실행하다\n③ (의사·변호사 등으로) 일하다\n[명] ① 연습 ② 실행 ③ 관행\n④ (의사·변호사) 업무"
+    },
+    {
+      "id": 25,
+      "word": "discipline",
+      "meaning": "[명] ① 훈련 ② 규율, 훈육 ③ 징벌\n④ 학문, 학과\n[동] ① 훈련하다, 훈육하다\n② 징계하다, 벌하다"
+    },
+    {
+      "id": 26,
+      "word": "reproach",
+      "meaning": "[명] 비난, 책망\n[동] 질책하다, 나무라다, 비난하다"
+    },
+    {
+      "id": 27,
+      "word": "arrest",
+      "meaning": "[동] 체포하다, 구속하다\n[명] 체포"
+    },
+    {
+      "id": 28,
+      "word": "clause",
+      "meaning": "[명] ① 조항 ② 절(節)"
+    },
+    {
+      "id": 29,
+      "word": "cynical",
+      "meaning": "[형] 냉소적인, 비꼬는"
+    },
+    {
+      "id": 30,
+      "word": "mock",
+      "meaning": "[동] 조롱하다, 놀리다"
+    },
+    {
+      "id": 31,
+      "word": "menace",
+      "meaning": "[동] 위협하다, 협박하다\n[명] 위협, 협박"
+    },
+    {
+      "id": 32,
+      "word": "bully",
+      "meaning": "[동] 괴롭히다, 협박하다\n[명] 약자를 괴롭히는 사람, 불량배"
+    },
+    {
+      "id": 33,
+      "word": "summon",
+      "meaning": "[동] 소환하다, 호출하다"
+    },
+    {
+      "id": 34,
+      "word": "allege",
+      "meaning": "[동] ① 주장하다, 단언하다\n② 혐의를 제기하다"
+    },
+    {
+      "id": 35,
+      "word": "smother",
+      "meaning": "[동] 질식시키다, 숨 막히게 하다"
+    },
+    {
+      "id": 36,
+      "word": "convict",
+      "meaning": "[동] 유죄를 선고하다\n[명] 죄인, 죄수"
+    },
+    {
+      "id": 37,
+      "word": "criterion",
+      "meaning": "[명] 기준 [pl. criteria]"
+    },
+    {
+      "id": 38,
+      "word": "testimony",
+      "meaning": "[명] 증언, 증거, 고백"
+    },
+    {
+      "id": 39,
+      "word": "justify",
+      "meaning": "[동] 정당화하다"
+    },
+    {
+      "id": 40,
+      "word": "rebuke",
+      "meaning": "[명] 심한 비난, 질책\n[동] 질책하다, 꾸짖다"
+    },
+    {
+      "id": 41,
+      "word": "verdict",
+      "meaning": "[명] 평결, 판결"
+    },
+    {
+      "id": 42,
+      "word": "impeach",
+      "meaning": "[동] 탄핵하다"
+    },
+    {
+      "id": 43,
+      "word": "warrant",
+      "meaning": "[동] ① 정당화하다 ② 보증하다\n[명] ① 영장 ② 이유, 근거 ③ 보증"
+    },
+    {
+      "id": 44,
+      "word": "blame",
+      "meaning": "[동] 비난하다, 탓하다\n[명] 비난, 탓"
+    },
+    {
+      "id": 45,
+      "word": "reprimand",
+      "meaning": "[명] 비난, 질책\n[동] 질책하다, 꾸짖다"
+    },
+    {
+      "id": 46,
+      "word": "endeavor",
+      "meaning": "[동] 애쓰다, 노력하다\n[명] 노력, 시도"
+    },
+    {
+      "id": 47,
+      "word": "jury",
+      "meaning": "[명] 배심원, 배심원단"
+    },
+    {
+      "id": 48,
+      "word": "challenge",
+      "meaning": "[동] ① 도전하다 ② 이의를 제기하다\n[명] 도전"
+    },
+    {
+      "id": 49,
+      "word": "charge",
+      "meaning": "[동] ① 청구하다, 부과하다\n② 기소[고소]하다, 비난하다\n③ 책임지게 하다 ④ 충전하다\n[명] ① 요금 ② 기소, 고발, 비난 ③ 책임"
+    },
+    {
+      "id": 50,
+      "word": "struggle",
+      "meaning": "[동] ① 몸부림치다, 투쟁하다, 애쓰다\n② 싸우다, 격투하다\n[명] ① 투쟁, 분투 ② 싸움"
+    }
+  ]
+}

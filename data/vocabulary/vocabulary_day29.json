@@ -1,0 +1,255 @@
+{
+  "day": 29,
+  "words": [
+    {
+      "id": 1,
+      "word": "merge",
+      "meaning": "[동] ① 합병하다, 합치다\n② 어우러지다, 융합되다"
+    },
+    {
+      "id": 2,
+      "word": "clap",
+      "meaning": "[동] ① 박수를 치다 ② 손뼉을 치다\n[명] 박수[손뼉] (소리)"
+    },
+    {
+      "id": 3,
+      "word": "unveil",
+      "meaning": "[동] 밝히다, 폭로하다"
+    },
+    {
+      "id": 4,
+      "word": "praise",
+      "meaning": "[동] 칭찬하다\n[명] 칭찬, 찬양"
+    },
+    {
+      "id": 5,
+      "word": "valid",
+      "meaning": "[형] ① 유효한, 효과가 있는 ② 정당한, 타당한"
+    },
+    {
+      "id": 6,
+      "word": "insert",
+      "meaning": "[동] 삽입하다, 끼워 넣다\n[명] 삽입물"
+    },
+    {
+      "id": 7,
+      "word": "credible",
+      "meaning": "[형] 믿을 수 있는, 믿을 만한"
+    },
+    {
+      "id": 8,
+      "word": "sacrifice",
+      "meaning": "[동] ① 희생하다 ② 제물로 바치다\n[명] ① 희생 ② 제물"
+    },
+    {
+      "id": 9,
+      "word": "esteem",
+      "meaning": "[동] 존경하다, 존중하다\n[명] 존경, 존중"
+    },
+    {
+      "id": 10,
+      "word": "divine",
+      "meaning": "[형] ① 신의, 신에 관한 ② 신성한, 신과 같은"
+    },
+    {
+      "id": 11,
+      "word": "reliable",
+      "meaning": "[형] 믿을 수 있는, 의지할 수 있는"
+    },
+    {
+      "id": 12,
+      "word": "gorgeous",
+      "meaning": "[형] 아주 멋진, 근사한"
+    },
+    {
+      "id": 13,
+      "word": "obvious",
+      "meaning": "[형] 명백한, 분명한"
+    },
+    {
+      "id": 14,
+      "word": "reveal",
+      "meaning": "[동] ① (비밀 등을) 드러내다, 밝히다\n② 드러내 보이다"
+    },
+    {
+      "id": 15,
+      "word": "applaud",
+      "meaning": "[동] ① 박수를 보내다 ② 칭찬하다"
+    },
+    {
+      "id": 16,
+      "word": "emerge",
+      "meaning": "[동] ① 나타나다, 출현하다\n② (문제·곤란 등이) 생기다, 발생하다"
+    },
+    {
+      "id": 17,
+      "word": "betray",
+      "meaning": "[동] 배반하다, 배신하다"
+    },
+    {
+      "id": 18,
+      "word": "congratulate",
+      "meaning": "[동] 축하하다"
+    },
+    {
+      "id": 19,
+      "word": "assert",
+      "meaning": "[동] 주장하다, 단언하다"
+    },
+    {
+      "id": 20,
+      "word": "complement",
+      "meaning": "[동] 보완하다, 보충하다\n[명] 보충(물)"
+    },
+    {
+      "id": 21,
+      "word": "clear",
+      "meaning": "[형] ① 분명한, 확실한 ② 맑은, 깨끗한\n[동] ① 치우다 ② 맑게 하다"
+    },
+    {
+      "id": 22,
+      "word": "supplement",
+      "meaning": "[동] 보충하다\n[명] 보완, 보충"
+    },
+    {
+      "id": 23,
+      "word": "divulge",
+      "meaning": "[동] 폭로하다"
+    },
+    {
+      "id": 24,
+      "word": "ritual",
+      "meaning": "[명] 의식 (절차), 의례(적인 일)\n[형] 의식의, 의례적인"
+    },
+    {
+      "id": 25,
+      "word": "compliment",
+      "meaning": "[동] 칭찬하다\n[명] 칭찬"
+    },
+    {
+      "id": 26,
+      "word": "conceal",
+      "meaning": "[동] 숨기다"
+    },
+    {
+      "id": 27,
+      "word": "insist",
+      "meaning": "[동] 주장하다, 고집하다"
+    },
+    {
+      "id": 28,
+      "word": "adore",
+      "meaning": "[동] ① 숭배하다 ② 매우 좋아하다"
+    },
+    {
+      "id": 29,
+      "word": "accredit",
+      "meaning": "[동] -가 한 것으로 믿다[간주하다]"
+    },
+    {
+      "id": 30,
+      "word": "splendid",
+      "meaning": "[형] ① 아주 좋은[멋진], 훌륭한 ② 화려한"
+    },
+    {
+      "id": 31,
+      "word": "skeptical",
+      "meaning": "[형] 회의적인, 의심하는"
+    },
+    {
+      "id": 32,
+      "word": "choir",
+      "meaning": "[명] 성가대, 합창단"
+    },
+    {
+      "id": 33,
+      "word": "plausible",
+      "meaning": "[형] 그럴듯한, 그럴싸한"
+    },
+    {
+      "id": 34,
+      "word": "befall",
+      "meaning": "[동] (안 좋은 일이) 일어나다, 생기다, 닥치다"
+    },
+    {
+      "id": 35,
+      "word": "saint",
+      "meaning": "[명] 성인, 성자"
+    },
+    {
+      "id": 36,
+      "word": "high-end",
+      "meaning": "[형] ① 최고(급)의, 최첨단의 ② 고가의"
+    },
+    {
+      "id": 37,
+      "word": "bet",
+      "meaning": "[동] ① 내기를 하다, 돈을 걸다 ② 단언하다\n[명] ① 내기 ② 짐작, 생각"
+    },
+    {
+      "id": 38,
+      "word": "manifest",
+      "meaning": "[동] ① 명백히 하다, 나타내다 ② 증명하다\n[형] 분명한, 명확한"
+    },
+    {
+      "id": 39,
+      "word": "replenish",
+      "meaning": "[동] 다시 채우다, 보충[공급]하다"
+    },
+    {
+      "id": 40,
+      "word": "belittle",
+      "meaning": "[동] 경시하다, 과소평가하다, 헐뜯다"
+    },
+    {
+      "id": 41,
+      "word": "apparent",
+      "meaning": "[형] ① 명백한 ② 외견상의"
+    },
+    {
+      "id": 42,
+      "word": "chapel",
+      "meaning": "[명] ① 예배당, 예배실\n② 예배(에의 출석)"
+    },
+    {
+      "id": 43,
+      "word": "sacred",
+      "meaning": "[형] ① 성스러운, 신성한 ② 종교적인"
+    },
+    {
+      "id": 44,
+      "word": "bless",
+      "meaning": "[동] 축복하다"
+    },
+    {
+      "id": 45,
+      "word": "patent",
+      "meaning": "[명] 전매특허, 특허품\n[형] 특허의 [동] 특허를 얻다"
+    },
+    {
+      "id": 46,
+      "word": "secular",
+      "meaning": "[형] 세속적인, 비종교적인"
+    },
+    {
+      "id": 47,
+      "word": "discredit",
+      "meaning": "[동] 의심하다\n[명] ① 불신 ② 불명예"
+    },
+    {
+      "id": 48,
+      "word": "worship",
+      "meaning": "[동] ① 숭배하다, 존경하다 ② 예배하다\n[명] ① 숭배, 존경 ② 예배"
+    },
+    {
+      "id": 49,
+      "word": "beware",
+      "meaning": "[동] 조심하다"
+    },
+    {
+      "id": 50,
+      "word": "plain",
+      "meaning": "[형] ① 분명한, 명료한 ② 솔직한, 있는 그대로의\n③ 무늬가 없는 ④ 보통의, 평범한\n[명] 평원, 평지"
+    }
+  ]
+}

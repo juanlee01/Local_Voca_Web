@@ -1,0 +1,255 @@
+{
+  "day": 17,
+  "words": [
+    {
+      "id": 1,
+      "word": "sincere",
+      "meaning": "[형] 진실된, 진정한"
+    },
+    {
+      "id": 2,
+      "word": "identify",
+      "meaning": "[동] ① (신원을) 확인하다, 식별하다\n② 동일시하다 (with)"
+    },
+    {
+      "id": 3,
+      "word": "merit",
+      "meaning": "[명] 장점"
+    },
+    {
+      "id": 4,
+      "word": "rare",
+      "meaning": "[형] 드문, 진귀한"
+    },
+    {
+      "id": 5,
+      "word": "detect",
+      "meaning": "[동] 발견하다, 감지하다"
+    },
+    {
+      "id": 6,
+      "word": "actual",
+      "meaning": "[형] 실제의, 사실상의"
+    },
+    {
+      "id": 7,
+      "word": "slender",
+      "meaning": "[형] ① 날씬한, 홀쭉한 ② 빈약한"
+    },
+    {
+      "id": 8,
+      "word": "chief",
+      "meaning": "[형] 주요한, 중요한\n[명] (조직·단체의) 우두머리, 장"
+    },
+    {
+      "id": 9,
+      "word": "withdraw",
+      "meaning": "[동] ① 물러나다, 철수하다 ② (돈을) 인출하다\n③ 철회하다, 취소하다"
+    },
+    {
+      "id": 10,
+      "word": "scarce",
+      "meaning": "[형] 부족한, 드문"
+    },
+    {
+      "id": 11,
+      "word": "consonant",
+      "meaning": "[형] -와 일치하는 (with)\n[명] 자음"
+    },
+    {
+      "id": 12,
+      "word": "diligent",
+      "meaning": "[형] 근면한, 성실한"
+    },
+    {
+      "id": 13,
+      "word": "erect",
+      "meaning": "[형] 똑바로 선\n[동] 세우다, 건립하다"
+    },
+    {
+      "id": 14,
+      "word": "candid",
+      "meaning": "[형] 솔직한, 노골적인"
+    },
+    {
+      "id": 15,
+      "word": "infuse",
+      "meaning": "[동] 주입하다, 불어넣다"
+    },
+    {
+      "id": 16,
+      "word": "withstand",
+      "meaning": "[동] 저항하다, 견디다"
+    },
+    {
+      "id": 17,
+      "word": "diagnose",
+      "meaning": "[동] 진단하다"
+    },
+    {
+      "id": 18,
+      "word": "thorough",
+      "meaning": "[형] 철저한, 빈틈없는"
+    },
+    {
+      "id": 19,
+      "word": "transplant",
+      "meaning": "[동] 이식하다, 옮겨 심다\n[명] 이식"
+    },
+    {
+      "id": 20,
+      "word": "identical",
+      "meaning": "[형] 동일한, 똑같은"
+    },
+    {
+      "id": 21,
+      "word": "compatible",
+      "meaning": "[형] 양립하는, 화합할 수 있는"
+    },
+    {
+      "id": 22,
+      "word": "upright",
+      "meaning": "[형] 똑바로 선, 직립의\n[명] 수직, 직립"
+    },
+    {
+      "id": 23,
+      "word": "laborious",
+      "meaning": "[형] ① 힘든, 고된 ② 근면한, 부지런한"
+    },
+    {
+      "id": 24,
+      "word": "coincident",
+      "meaning": "[형] ① 동시에 일어나는 ② 일치하는 (with)"
+    },
+    {
+      "id": 25,
+      "word": "elaborate",
+      "meaning": "[형] 공들인, 정교한\n[동] ① 정교하게 만들다\n② 자세히 설명하다, 상술하다"
+    },
+    {
+      "id": 26,
+      "word": "considerable",
+      "meaning": "[형] ① 상당한 ② 중요한"
+    },
+    {
+      "id": 27,
+      "word": "concur",
+      "meaning": "[동] ① 동시에 일어나다 ② 동의하다 (with)"
+    },
+    {
+      "id": 28,
+      "word": "ascertain",
+      "meaning": "[동] 확인하다"
+    },
+    {
+      "id": 29,
+      "word": "withhold",
+      "meaning": "[동] ① 주지 않다 ② 억누르다, 억제하다\n③ 보류하다"
+    },
+    {
+      "id": 30,
+      "word": "elegant",
+      "meaning": "[형] 우아한, 품위 있는"
+    },
+    {
+      "id": 31,
+      "word": "comparative",
+      "meaning": "[형] 비교의, 상대적인"
+    },
+    {
+      "id": 32,
+      "word": "faulty",
+      "meaning": "[형] 결함이 있는, 불완전한"
+    },
+    {
+      "id": 33,
+      "word": "implant",
+      "meaning": "[동] 심다, 뿌리내리다"
+    },
+    {
+      "id": 34,
+      "word": "sophisticated",
+      "meaning": "[형] ① 세련된, 교양 있는 ② 정교한, 복잡한"
+    },
+    {
+      "id": 35,
+      "word": "industrious",
+      "meaning": "[형] 근면한, 부지런한"
+    },
+    {
+      "id": 36,
+      "word": "flaw",
+      "meaning": "[명] 결점, 흠"
+    },
+    {
+      "id": 37,
+      "word": "exquisite",
+      "meaning": "[형] ① 매우 훌륭한 ② 정교한, 우아한"
+    },
+    {
+      "id": 38,
+      "word": "meager",
+      "meaning": "[형] 부족한, 빈약한, 불충분한"
+    },
+    {
+      "id": 39,
+      "word": "cardinal",
+      "meaning": "[형] ① 가장 중요한 ② 기본적인\n[명] 추기경, 기수"
+    },
+    {
+      "id": 40,
+      "word": "straightforward",
+      "meaning": "[형] ① 똑바른, 정직한 ② 간단한, 쉬운\n[부] 똑바로, 정직하게"
+    },
+    {
+      "id": 41,
+      "word": "authentic",
+      "meaning": "[형] ① 진짜의, 진품인 ② 믿을 만한"
+    },
+    {
+      "id": 42,
+      "word": "earnest",
+      "meaning": "[형] ① 성실한, 열심인 ② 진지한"
+    },
+    {
+      "id": 43,
+      "word": "shortcoming",
+      "meaning": "[명] 결점, 단점"
+    },
+    {
+      "id": 44,
+      "word": "sparse",
+      "meaning": "[형] 드문, 희박한, 드문드문 나 있는"
+    },
+    {
+      "id": 45,
+      "word": "substantial",
+      "meaning": "[형] ① (양이) 상당한 ② 본질적인, 중요한\n③ 실제의"
+    },
+    {
+      "id": 46,
+      "word": "plump",
+      "meaning": "[형] 살찐, 통통한"
+    },
+    {
+      "id": 47,
+      "word": "blemish",
+      "meaning": "[명] 티, 흠\n[동] 흠집을 내다, 더럽히다"
+    },
+    {
+      "id": 48,
+      "word": "scanty",
+      "meaning": "[형] 부족한, 빈약한"
+    },
+    {
+      "id": 49,
+      "word": "dearth",
+      "meaning": "[명] 부족, 결핍"
+    },
+    {
+      "id": 50,
+      "word": "frame",
+      "meaning": "[동] ① 틀에 넣다, 짜다, 만들다\n② 누명을 씌우다\n[명] ① 틀, 액자 ② 뼈대 ③ 구조"
+    }
+  ]
+}

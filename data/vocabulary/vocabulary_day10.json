@@ -1,0 +1,255 @@
+{
+  "day": 10,
+  "words": [
+    {
+      "id": 1,
+      "word": "enlarge",
+      "meaning": "[동] 확대하다, 확장하다"
+    },
+    {
+      "id": 2,
+      "word": "forehead",
+      "meaning": "[명] 이마"
+    },
+    {
+      "id": 3,
+      "word": "misuse",
+      "meaning": "[명] 오용, 남용\n[동] 오용하다, 남용하다"
+    },
+    {
+      "id": 4,
+      "word": "encourage",
+      "meaning": "[동] ① 용기를 북돋우다, 격려하다\n② 장려하다"
+    },
+    {
+      "id": 5,
+      "word": "beneficial",
+      "meaning": "[형] 유익한, 이로운"
+    },
+    {
+      "id": 6,
+      "word": "misplace",
+      "meaning": "[동] 잘못 두다, 둔 곳을 잊다"
+    },
+    {
+      "id": 7,
+      "word": "symphony",
+      "meaning": "[명] ① 교향곡, 교향악단 ② 조화"
+    },
+    {
+      "id": 8,
+      "word": "encode",
+      "meaning": "[동] 암호화[부호화]하다"
+    },
+    {
+      "id": 9,
+      "word": "forecast",
+      "meaning": "[동] 예상[예측]하다, 예보하다\n[명] 예상[예측], 예보"
+    },
+    {
+      "id": 10,
+      "word": "misbehave",
+      "meaning": "[동] 못된 짓을 하다, 비행을 저지르다"
+    },
+    {
+      "id": 11,
+      "word": "enrich",
+      "meaning": "[동] ① 부유하게 하다 ② 풍부하게 하다"
+    },
+    {
+      "id": 12,
+      "word": "progress",
+      "meaning": "[명] ① 전진, 진행 ② 진보, 발전\n[동] ① 전진하다, 진행되다 ② 진보[발전]하다"
+    },
+    {
+      "id": 13,
+      "word": "misunderstand",
+      "meaning": "[동] 오해하다"
+    },
+    {
+      "id": 14,
+      "word": "synthetic",
+      "meaning": "[형] ① 합성한, 인조의 ② 종합적인\n[명] 인조 물질[직물]"
+    },
+    {
+      "id": 15,
+      "word": "enable",
+      "meaning": "[동] -할 수 있게 하다"
+    },
+    {
+      "id": 16,
+      "word": "enlighten",
+      "meaning": "[동] 이해시키다, 계몽[교화]하다"
+    },
+    {
+      "id": 17,
+      "word": "encompass",
+      "meaning": "[동] ① 포함하다, 아우르다 ② 에워싸다"
+    },
+    {
+      "id": 18,
+      "word": "ensure",
+      "meaning": "[동] 확실하게 하다, 보장[보증]하다"
+    },
+    {
+      "id": 19,
+      "word": "malnutrition",
+      "meaning": "[명] 영양실조, 영양 부족"
+    },
+    {
+      "id": 20,
+      "word": "endanger",
+      "meaning": "[동] 위험에 빠뜨리다, 위태롭게 하다"
+    },
+    {
+      "id": 21,
+      "word": "synchronize",
+      "meaning": "[동] 동시에 발생하다[움직이다],\n동시에 발생하게[움직이게] 하다"
+    },
+    {
+      "id": 22,
+      "word": "embed",
+      "meaning": "[동] (보통 수동태로) 깊숙이 박다, 파묻다"
+    },
+    {
+      "id": 23,
+      "word": "mislead",
+      "meaning": "[동] ① 잘못 인도하다, 오도하다\n② 속이다, 현혹하다"
+    },
+    {
+      "id": 24,
+      "word": "foresee",
+      "meaning": "[동] 예견[예상]하다, 예언하다"
+    },
+    {
+      "id": 25,
+      "word": "foremost",
+      "meaning": "[형] ① 선두의, 맨 앞에 위치한\n② 가장 중요한"
+    },
+    {
+      "id": 26,
+      "word": "beneficent",
+      "meaning": "[형] 도움을 주는, 선행을 베푸는, 친절한"
+    },
+    {
+      "id": 27,
+      "word": "miscarry",
+      "meaning": "[동] ① 실패하다 ② 유산하다"
+    },
+    {
+      "id": 28,
+      "word": "enact",
+      "meaning": "[동] 제정하다"
+    },
+    {
+      "id": 29,
+      "word": "enliven",
+      "meaning": "[동] 활기 있게 하다, 더 생동감 있게 만들다"
+    },
+    {
+      "id": 30,
+      "word": "foretell",
+      "meaning": "[동] 예언하다"
+    },
+    {
+      "id": 31,
+      "word": "mischief",
+      "meaning": "[명] ① (심각하지 않은) 나쁜 짓, 장난(기)\n② 손해"
+    },
+    {
+      "id": 32,
+      "word": "entrust",
+      "meaning": "[동] 위임하다, 맡기다"
+    },
+    {
+      "id": 33,
+      "word": "empower",
+      "meaning": "[동] 권한을 주다"
+    },
+    {
+      "id": 34,
+      "word": "malady",
+      "meaning": "[명] 병, (사회의) 병폐"
+    },
+    {
+      "id": 35,
+      "word": "entice",
+      "meaning": "[동] 꾀다, 유혹하다"
+    },
+    {
+      "id": 36,
+      "word": "provision",
+      "meaning": "[명] ① 대비, 준비 ② 공급, 제공\n③ 식량[주로 pl.] ④ (법률) 규정, 조항"
+    },
+    {
+      "id": 37,
+      "word": "misdeed",
+      "meaning": "[명] 악행, 범죄"
+    },
+    {
+      "id": 38,
+      "word": "prophecy",
+      "meaning": "[명] 예언"
+    },
+    {
+      "id": 39,
+      "word": "enlist",
+      "meaning": "[동] 병적에 넣다, 입대시키다[하다], 징집하다[되다]"
+    },
+    {
+      "id": 40,
+      "word": "entitle",
+      "meaning": "[동] ① 자격[권리]을 주다 ② 제목을 붙이다"
+    },
+    {
+      "id": 41,
+      "word": "symbiosis",
+      "meaning": "[명] 공생(共生)"
+    },
+    {
+      "id": 42,
+      "word": "malfunction",
+      "meaning": "[명] 기능 불량, 오작동\n[동] 제대로 작동하지 않다"
+    },
+    {
+      "id": 43,
+      "word": "engross",
+      "meaning": "[동] 집중시키다, 몰두하게 만들다"
+    },
+    {
+      "id": 44,
+      "word": "forearm",
+      "meaning": "[동] (보통 수동태로) 미리 무장하다, 대비하다\n[명] 팔뚝"
+    },
+    {
+      "id": 45,
+      "word": "forerunner",
+      "meaning": "[명] 선구자, 전신"
+    },
+    {
+      "id": 46,
+      "word": "malice",
+      "meaning": "[명] 악의, 적의"
+    },
+    {
+      "id": 47,
+      "word": "prospect",
+      "meaning": "[명] ① 가망, 가능성 ② 전망, 예상\n③ 조망, 경치"
+    },
+    {
+      "id": 48,
+      "word": "benevolent",
+      "meaning": "[형] 인정 많은, 자비로운"
+    },
+    {
+      "id": 49,
+      "word": "procedure",
+      "meaning": "[명] 순서, 절차"
+    },
+    {
+      "id": 50,
+      "word": "embody",
+      "meaning": "[동] 구체화하다, 구현하다"
+    }
+  ]
+}

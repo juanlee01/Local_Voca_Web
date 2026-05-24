@@ -1,0 +1,255 @@
+{
+  "day": 37,
+  "words": [
+    {
+      "id": 1,
+      "word": "certify",
+      "meaning": "[동] 증명하다"
+    },
+    {
+      "id": 2,
+      "word": "vow",
+      "meaning": "[동] 맹세하다, 서약하다\n[명] 맹세, 서약"
+    },
+    {
+      "id": 3,
+      "word": "counsel",
+      "meaning": "[명] ① 상담, 협의 ② 조언, 충고\n[동] ① 상담하다 ② 조언[충고]하다"
+    },
+    {
+      "id": 4,
+      "word": "destination",
+      "meaning": "[명] 목적지, 행선지"
+    },
+    {
+      "id": 5,
+      "word": "candidate",
+      "meaning": "[명] 후보자, 지원자"
+    },
+    {
+      "id": 6,
+      "word": "policy",
+      "meaning": "[명] 정책"
+    },
+    {
+      "id": 7,
+      "word": "trunk",
+      "meaning": "[명] ① (차) 트렁크, 여행 가방 ② 사각팬티\n③ 나무줄기 ④ 코끼리 코"
+    },
+    {
+      "id": 8,
+      "word": "insurance",
+      "meaning": "[명] 보험"
+    },
+    {
+      "id": 9,
+      "word": "reconcile",
+      "meaning": "[동] 화해시키다, 조화시키다"
+    },
+    {
+      "id": 10,
+      "word": "fascinate",
+      "meaning": "[동] 매혹시키다, 마음을 사로잡다"
+    },
+    {
+      "id": 11,
+      "word": "wander",
+      "meaning": "[동] 헤매다, 돌아다니다"
+    },
+    {
+      "id": 12,
+      "word": "itinerary",
+      "meaning": "[명] 일정(표), 여정"
+    },
+    {
+      "id": 13,
+      "word": "via",
+      "meaning": "[전] 경유해서, -을 거쳐"
+    },
+    {
+      "id": 14,
+      "word": "carve",
+      "meaning": "[동] 조각하다, 새기다"
+    },
+    {
+      "id": 15,
+      "word": "seal",
+      "meaning": "[동] ① 밀봉하다, 봉인하다 ② 도장을 찍다\n[명] ① 봉인 ② 도장 ③ 바다표범, 물개"
+    },
+    {
+      "id": 16,
+      "word": "council",
+      "meaning": "[명] 의회, 위원회"
+    },
+    {
+      "id": 17,
+      "word": "engrave",
+      "meaning": "[동] 새기다, 조각하다"
+    },
+    {
+      "id": 18,
+      "word": "cunning",
+      "meaning": "[형] 약삭빠른, 교활한"
+    },
+    {
+      "id": 19,
+      "word": "lure",
+      "meaning": "[동] 꾀다, 유혹하다"
+    },
+    {
+      "id": 20,
+      "word": "compromise",
+      "meaning": "[동] ① 타협하다 ② 손상시키다 ③ 굽히다\n[명] 타협, 절충(안)"
+    },
+    {
+      "id": 21,
+      "word": "proximity",
+      "meaning": "[명] 가까움, 근접"
+    },
+    {
+      "id": 22,
+      "word": "certificate",
+      "meaning": "[명] ① 증명서 ② 수료증, 자격증\n[동] 자격증[면허증]을 교부하다"
+    },
+    {
+      "id": 23,
+      "word": "sculpture",
+      "meaning": "[명] 조각(상)"
+    },
+    {
+      "id": 24,
+      "word": "tempt",
+      "meaning": "[동] ① 유혹하다 ② 유도하다, 설득하다"
+    },
+    {
+      "id": 25,
+      "word": "lean",
+      "meaning": "[동] ① 기울다[기울이다], 몸을 구부리다\n② 기대다[기대게 하다], 의지하다\n(against, on)"
+    },
+    {
+      "id": 26,
+      "word": "smuggle",
+      "meaning": "[동] 밀수하다, 밀수입[수출]하다"
+    },
+    {
+      "id": 27,
+      "word": "politics",
+      "meaning": "[명] 정치, 정치학"
+    },
+    {
+      "id": 28,
+      "word": "guarantee",
+      "meaning": "[동] 보장[보증]하다, 약속하다\n[명] 보증(서), 약속"
+    },
+    {
+      "id": 29,
+      "word": "vicinity",
+      "meaning": "[명] 근접, 인접"
+    },
+    {
+      "id": 30,
+      "word": "pacify",
+      "meaning": "[동] 진정시키다, 평화를 가져오다"
+    },
+    {
+      "id": 31,
+      "word": "oath",
+      "meaning": "[명] 맹세, 서약"
+    },
+    {
+      "id": 32,
+      "word": "autograph",
+      "meaning": "[명] 사인, 자필 서명\n[동] 서명하다"
+    },
+    {
+      "id": 33,
+      "word": "commission",
+      "meaning": "[명] ① 위임 ② 위원회 ③ 수수료\n④ (제작의) 의뢰, 주문"
+    },
+    {
+      "id": 34,
+      "word": "allure",
+      "meaning": "[명] 매력, 매혹\n[동] 유혹하다, 꾀다"
+    },
+    {
+      "id": 35,
+      "word": "pledge",
+      "meaning": "[동] 서약하다, 맹세하다\n[명] 서약, 맹세"
+    },
+    {
+      "id": 36,
+      "word": "lurk",
+      "meaning": "[동] ① 숨어 있다, 잠복하다\n② 도사리다, 잠재하다"
+    },
+    {
+      "id": 37,
+      "word": "diplomacy",
+      "meaning": "[명] 외교(술)"
+    },
+    {
+      "id": 38,
+      "word": "enchant",
+      "meaning": "[동] 매혹시키다, 마법을 걸다"
+    },
+    {
+      "id": 39,
+      "word": "swear",
+      "meaning": "[동] ① 맹세하다 ② 욕하다"
+    },
+    {
+      "id": 40,
+      "word": "adjoin",
+      "meaning": "[동] 인접하다, 붙어 있다, 이웃하다"
+    },
+    {
+      "id": 41,
+      "word": "mayor",
+      "meaning": "[명] 시장(市長)"
+    },
+    {
+      "id": 42,
+      "word": "adjacent",
+      "meaning": "[형] 인접한, 가까운"
+    },
+    {
+      "id": 43,
+      "word": "ambassador",
+      "meaning": "[명] 대사, 사절"
+    },
+    {
+      "id": 44,
+      "word": "stalk",
+      "meaning": "[명] (식물의) 줄기\n[동] 몰래 접근하다, 뒤를 밟다"
+    },
+    {
+      "id": 45,
+      "word": "pinnacle",
+      "meaning": "[명] 정상, 절정"
+    },
+    {
+      "id": 46,
+      "word": "roam",
+      "meaning": "[동] 배회하다, 방랑하다"
+    },
+    {
+      "id": 47,
+      "word": "tilt",
+      "meaning": "[동] 기울다[기울이다], 경사지다[경사지게 하다]"
+    },
+    {
+      "id": 48,
+      "word": "nomadic",
+      "meaning": "[형] 유목의, 방랑의"
+    },
+    {
+      "id": 49,
+      "word": "stroll",
+      "meaning": "[동] 산책하다, 떠돌다\n[명] 산책"
+    },
+    {
+      "id": 50,
+      "word": "summit",
+      "meaning": "[명] ① 정상, 꼭대기 ② 정상 회담"
+    }
+  ]
+}

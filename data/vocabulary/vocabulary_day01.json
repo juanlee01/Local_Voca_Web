@@ -1,0 +1,255 @@
+{
+  "day": 1,
+  "words": [
+    {
+      "id": 1,
+      "word": "respect",
+      "meaning": "[동] 존경하다\n[명] ① 존경 ② (측)면"
+    },
+    {
+      "id": 2,
+      "word": "indicate",
+      "meaning": "[동] ① 나타내다, 암시하다 ② 지시하다, 가리키다"
+    },
+    {
+      "id": 3,
+      "word": "improvise",
+      "meaning": "[동] 즉흥적으로 하다"
+    },
+    {
+      "id": 4,
+      "word": "autobiography",
+      "meaning": "[명] 자서전"
+    },
+    {
+      "id": 5,
+      "word": "spectator",
+      "meaning": "[명] 관객, 구경꾼"
+    },
+    {
+      "id": 6,
+      "word": "revolt",
+      "meaning": "[동] 반란을 일으키다, 반항하다\n[명] 반역, 반항"
+    },
+    {
+      "id": 7,
+      "word": "dedicate",
+      "meaning": "[동] 바치다, 헌신하다, 전념하다"
+    },
+    {
+      "id": 8,
+      "word": "ascribe",
+      "meaning": "[동] -의 탓으로 돌리다"
+    },
+    {
+      "id": 9,
+      "word": "spectacular",
+      "meaning": "[형] 장관을 이루는, 극적인"
+    },
+    {
+      "id": 10,
+      "word": "fluctuate",
+      "meaning": "[형] 오르내리다, 변동하다"
+    },
+    {
+      "id": 11,
+      "word": "vocation",
+      "meaning": "[명] ① 천직, 소명 ② 직업"
+    },
+    {
+      "id": 12,
+      "word": "conspicuous",
+      "meaning": "[형] 눈에 잘 띄는, 뚜렷한"
+    },
+    {
+      "id": 13,
+      "word": "affluent",
+      "meaning": "[형] ① 풍부한 ② 부유한"
+    },
+    {
+      "id": 14,
+      "word": "paragraph",
+      "meaning": "[명] 문단, 단락, 절"
+    },
+    {
+      "id": 15,
+      "word": "devise",
+      "meaning": "[동] 고안하다, 궁리하다"
+    },
+    {
+      "id": 16,
+      "word": "acclaim",
+      "meaning": "[동] 칭송하다, 환호하다"
+    },
+    {
+      "id": 17,
+      "word": "dictate",
+      "meaning": "[동] ① 명령하다, 지시하다 ② 받아쓰게 하다, 구술하다\n[명] 명령, 지시[주로 pl.]"
+    },
+    {
+      "id": 18,
+      "word": "claim",
+      "meaning": "[동] 요구하다, 주장하다\n[명] 요구, 주장"
+    },
+    {
+      "id": 19,
+      "word": "provoke",
+      "meaning": "[동] ① (특정 반응을) 유발하다 ② 화나게 하다"
+    },
+    {
+      "id": 20,
+      "word": "supervise",
+      "meaning": "[동] 감독하다, 관리하다"
+    },
+    {
+      "id": 21,
+      "word": "evolve",
+      "meaning": "[동] 진화하다[시키다], 발전하다[시키다]"
+    },
+    {
+      "id": 22,
+      "word": "perspective",
+      "meaning": "[명] ① 관점, 시각 ② 원근법"
+    },
+    {
+      "id": 23,
+      "word": "fluid",
+      "meaning": "[명] 유동체[액체, 기체]\n[형] 유동적인, 변하기 쉬운"
+    },
+    {
+      "id": 24,
+      "word": "revoke",
+      "meaning": "[동] 취소하다, 폐지하다"
+    },
+    {
+      "id": 25,
+      "word": "specify",
+      "meaning": "[동] 명시하다, 구체화하다"
+    },
+    {
+      "id": 26,
+      "word": "revolve",
+      "meaning": "[동] 회전하다, 돌다"
+    },
+    {
+      "id": 27,
+      "word": "revise",
+      "meaning": "[동] 수정하다, 개정하다"
+    },
+    {
+      "id": 28,
+      "word": "advocate",
+      "meaning": "[동] ① 지지하다, 옹호하다 ② 주장하다\n[명] 지지자, 옹호자"
+    },
+    {
+      "id": 29,
+      "word": "manuscript",
+      "meaning": "[명] 원고, 손으로 쓴 책"
+    },
+    {
+      "id": 30,
+      "word": "inspect",
+      "meaning": "[동] 조사하다"
+    },
+    {
+      "id": 31,
+      "word": "introspective",
+      "meaning": "[형] ① 자기 성찰의, 자기반성의 ② 내성적인"
+    },
+    {
+      "id": 32,
+      "word": "geography",
+      "meaning": "[명] 지리학"
+    },
+    {
+      "id": 33,
+      "word": "proclaim",
+      "meaning": "[동] 선언[선포]하다"
+    },
+    {
+      "id": 34,
+      "word": "visible",
+      "meaning": "[형] ① 눈에 보이는 ② 명백한"
+    },
+    {
+      "id": 35,
+      "word": "fluent",
+      "meaning": "[형] 유창한, 능변의"
+    },
+    {
+      "id": 36,
+      "word": "prescribe",
+      "meaning": "[동] ① 처방하다 ② 규정하다"
+    },
+    {
+      "id": 37,
+      "word": "vocal",
+      "meaning": "[형] 목소리의\n[명] 보컬, 노래 부분"
+    },
+    {
+      "id": 38,
+      "word": "retrospect",
+      "meaning": "[명] 회상, 추억\n[동] 회고하다, 회상하다"
+    },
+    {
+      "id": 39,
+      "word": "inscribe",
+      "meaning": "[동] ① 쓰다, 새기다 ② 명심하다"
+    },
+    {
+      "id": 40,
+      "word": "biography",
+      "meaning": "[명] 전기, 일대기"
+    },
+    {
+      "id": 41,
+      "word": "envision",
+      "meaning": "[동] 상상하다, 마음속에 그리다"
+    },
+    {
+      "id": 42,
+      "word": "describe",
+      "meaning": "[동] 묘사하다, 서술하다"
+    },
+    {
+      "id": 43,
+      "word": "contradict",
+      "meaning": "[동] ① 반박하다, 반대하다 ② 모순되다"
+    },
+    {
+      "id": 44,
+      "word": "suspect",
+      "meaning": "[동] 의심하다\n[명] 혐의자, 용의자"
+    },
+    {
+      "id": 45,
+      "word": "exclaim",
+      "meaning": "[동] 소리치다, 외치다"
+    },
+    {
+      "id": 46,
+      "word": "despise",
+      "meaning": "[동] 경멸하다, 혐오하다"
+    },
+    {
+      "id": 47,
+      "word": "reclaim",
+      "meaning": "[동] ① 되찾다 ② 개간하다 ③ 교화하다"
+    },
+    {
+      "id": 48,
+      "word": "evoke",
+      "meaning": "[동] 불러내다, (기억·감정을) 일깨우다"
+    },
+    {
+      "id": 49,
+      "word": "subscribe",
+      "meaning": "[동] ① 구독하다, 가입하다 ② 기부하다"
+    },
+    {
+      "id": 50,
+      "word": "involve",
+      "meaning": "[동] ① 포함하다, 수반하다 ② 관련시키다"
+    }
+  ]
+}

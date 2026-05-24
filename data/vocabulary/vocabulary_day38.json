@@ -1,0 +1,255 @@
+{
+  "day": 38,
+  "words": [
+    {
+      "id": 1,
+      "word": "overhaul",
+      "meaning": "[동] ① (기계·시스템을) 점검하다, 정밀 조사하다\n② (경주에서 남을) 앞지르다"
+    },
+    {
+      "id": 2,
+      "word": "distort",
+      "meaning": "[동] 비틀다, 왜곡하다"
+    },
+    {
+      "id": 3,
+      "word": "float",
+      "meaning": "[동] ① 뜨다, 떠오르다 ② 떠다니다, 떠돌다"
+    },
+    {
+      "id": 4,
+      "word": "anguish",
+      "meaning": "[명] 극심한 고통, 고뇌\n[동] 괴롭히다, 괴로워하다"
+    },
+    {
+      "id": 5,
+      "word": "precious",
+      "meaning": "[형] 귀중한, 소중한"
+    },
+    {
+      "id": 6,
+      "word": "compassion",
+      "meaning": "[명] 연민, 동정"
+    },
+    {
+      "id": 7,
+      "word": "patrol",
+      "meaning": "[동] 순찰하다, 돌아다니다\n[명] 순찰, 순찰대"
+    },
+    {
+      "id": 8,
+      "word": "probe",
+      "meaning": "[동] ① 엄밀히 조사하다 ② 규명하다\n[명] ① 철저한 조사 ② 탐사선"
+    },
+    {
+      "id": 9,
+      "word": "overseas",
+      "meaning": "[형] 해외의, 외국의\n[부] 해외로"
+    },
+    {
+      "id": 10,
+      "word": "torment",
+      "meaning": "[명] 고통, 고뇌, 고민거리\n[동] 괴롭히다, 고문하다"
+    },
+    {
+      "id": 11,
+      "word": "diffuse",
+      "meaning": "[형] ① 널리 퍼진 ② 산만한, 장황한\n[동] ① 퍼뜨리다, 분산[확산]시키다 ② 퍼지다"
+    },
+    {
+      "id": 12,
+      "word": "split",
+      "meaning": "[동] 나누다, 쪼개다\n[명] 분열"
+    },
+    {
+      "id": 13,
+      "word": "drift",
+      "meaning": "[동] 표류하다, 떠돌다\n[명] ① 표류 ② 경향"
+    },
+    {
+      "id": 14,
+      "word": "chop",
+      "meaning": "[동] 자르다\n[명] 절단"
+    },
+    {
+      "id": 15,
+      "word": "accommodate",
+      "meaning": "[동] ① 숙박시키다, 수용하다\n② -에게 편의를 제공하다"
+    },
+    {
+      "id": 16,
+      "word": "investigate",
+      "meaning": "[동] 조사하다, 연구하다"
+    },
+    {
+      "id": 17,
+      "word": "cherish",
+      "meaning": "[동] 소중히 하다"
+    },
+    {
+      "id": 18,
+      "word": "circulate",
+      "meaning": "[동] ① 순환하다, 돌다\n② (소문이) 퍼지다, 유포되다"
+    },
+    {
+      "id": 19,
+      "word": "leftover",
+      "meaning": "[명] ① 나머지, 남은 음식 ② 잔재, 유물\n[형] 나머지의, 먹다 남은"
+    },
+    {
+      "id": 20,
+      "word": "pity",
+      "meaning": "[명] 동정, 연민\n[동] 동정을 느끼다"
+    },
+    {
+      "id": 21,
+      "word": "scatter",
+      "meaning": "[동] 흩뿌리다, 흩어지게 하다"
+    },
+    {
+      "id": 22,
+      "word": "torture",
+      "meaning": "[동] 고문하다, 괴롭히다\n[명] 고문, 심한 고통"
+    },
+    {
+      "id": 23,
+      "word": "cruise",
+      "meaning": "[동] 순항하다, 돌아다니다\n[명] 순항"
+    },
+    {
+      "id": 24,
+      "word": "embrace",
+      "meaning": "[동] ① 포옹하다, 껴안다 ② 받아들이다\n[명] ① 포옹 ② 수락"
+    },
+    {
+      "id": 25,
+      "word": "pedestrian",
+      "meaning": "[명] 보행자\n[형] 보행의, 도보의"
+    },
+    {
+      "id": 26,
+      "word": "disperse",
+      "meaning": "[동] ① 흩어지다, 해산시키다\n② 퍼뜨리다, 보급하다"
+    },
+    {
+      "id": 27,
+      "word": "navigate",
+      "meaning": "[동] ① 항해하다, 조종하다 ② 길을 찾다"
+    },
+    {
+      "id": 28,
+      "word": "detour",
+      "meaning": "[명] 우회"
+    },
+    {
+      "id": 29,
+      "word": "overboard",
+      "meaning": "[부] 배 밖으로, (배 밖의) 물 속으로"
+    },
+    {
+      "id": 30,
+      "word": "cordial",
+      "meaning": "[형] 진심의, 다정한"
+    },
+    {
+      "id": 31,
+      "word": "by-product",
+      "meaning": "[명] ① 부산물 ② 부작용"
+    },
+    {
+      "id": 32,
+      "word": "embark",
+      "meaning": "[동] ① 승선하다 ② 시작하다"
+    },
+    {
+      "id": 33,
+      "word": "chore",
+      "meaning": "[명] ① (정기적·일상적으로 하는) 일\n② 힘든[싫은] 일"
+    },
+    {
+      "id": 34,
+      "word": "forage",
+      "meaning": "[동] 먹이를 찾다, -을 찾다\n[명] 사료"
+    },
+    {
+      "id": 35,
+      "word": "misery",
+      "meaning": "[명] 불행, (정신적) 고통"
+    },
+    {
+      "id": 36,
+      "word": "pastime",
+      "meaning": "[명] 취미, 기분 전환, 오락"
+    },
+    {
+      "id": 37,
+      "word": "dusk",
+      "meaning": "[명] 황혼, 땅거미"
+    },
+    {
+      "id": 38,
+      "word": "scout",
+      "meaning": "[명] 정찰(병)\n[동] 정찰하다, 수색하다"
+    },
+    {
+      "id": 39,
+      "word": "scrutinize",
+      "meaning": "[동] 세심히 살피다, 면밀히 조사하다"
+    },
+    {
+      "id": 40,
+      "word": "steer",
+      "meaning": "[동] ① 조종하다 ② 이끌다"
+    },
+    {
+      "id": 41,
+      "word": "peripheral",
+      "meaning": "[형] 주변적인, 지엽적인"
+    },
+    {
+      "id": 42,
+      "word": "distress",
+      "meaning": "[명] 고통, 괴로움\n[동] 괴롭히다"
+    },
+    {
+      "id": 43,
+      "word": "linger",
+      "meaning": "[동] 오래 머무르다, 남아 있다, 지속되다"
+    },
+    {
+      "id": 44,
+      "word": "twilight",
+      "meaning": "[명] 여명(기), 황혼(기)"
+    },
+    {
+      "id": 45,
+      "word": "remnant",
+      "meaning": "[명] 나머지, 잔여"
+    },
+    {
+      "id": 46,
+      "word": "lodge",
+      "meaning": "[명] 오두막집\n[동] 숙박하다, 숙박시키다"
+    },
+    {
+      "id": 47,
+      "word": "burglar",
+      "meaning": "[명] 강도, 도둑"
+    },
+    {
+      "id": 48,
+      "word": "agony",
+      "meaning": "[명] 극심한 고통"
+    },
+    {
+      "id": 49,
+      "word": "annex",
+      "meaning": "[동] ① (영토 등을) 합병하다 ② 추가하다\n[명] 부가물, (건물의) 별관"
+    },
+    {
+      "id": 50,
+      "word": "anchor",
+      "meaning": "[동] 정박하다, 닻을 내리다\n[명] ① 닻, 정박 ② 사회자"
+    }
+  ]
+}

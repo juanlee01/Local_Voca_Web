@@ -1,0 +1,255 @@
+{
+  "day": 33,
+  "words": [
+    {
+      "id": 1,
+      "word": "alter",
+      "meaning": "[동] 변하다, 바꾸다"
+    },
+    {
+      "id": 2,
+      "word": "surge",
+      "meaning": "[동] ① 밀어닥치다, 쇄도하다 ② 급등하다\n[명] ① 큰 파도 ② 쇄도 ③ 급등"
+    },
+    {
+      "id": 3,
+      "word": "public",
+      "meaning": "[형] 공공의, 일반 대중의\n[명] 대중"
+    },
+    {
+      "id": 4,
+      "word": "closet",
+      "meaning": "[명] 벽장, 옷장"
+    },
+    {
+      "id": 5,
+      "word": "strict",
+      "meaning": "[형] ① 엄격한, 엄한 ② 정확한, 엄밀한"
+    },
+    {
+      "id": 6,
+      "word": "tailor",
+      "meaning": "[명] 재봉사, 재단사\n[동] (요구·조건 등에) 맞추다"
+    },
+    {
+      "id": 7,
+      "word": "soar",
+      "meaning": "[동] ① 급등하다, 치솟다 ② 날아오르다"
+    },
+    {
+      "id": 8,
+      "word": "mold",
+      "meaning": "[동] ① (틀에 넣어) 만들다, 주조하다\n[명] ① 틀, 주형 ② 곰팡이"
+    },
+    {
+      "id": 9,
+      "word": "multiple",
+      "meaning": "[형] 다수의, 다양한\n[명] 배수"
+    },
+    {
+      "id": 10,
+      "word": "intrigue",
+      "meaning": "[동] ① 흥미를 불러일으키다 ② 음모를 꾸미다\n[명] 음모"
+    },
+    {
+      "id": 11,
+      "word": "alien",
+      "meaning": "[형] ① 이질적인 ② 외국의 ③ 외계의\n[명] ① 외국인 ② 외계인"
+    },
+    {
+      "id": 12,
+      "word": "shelf",
+      "meaning": "[명] 선반, 책꽂이"
+    },
+    {
+      "id": 13,
+      "word": "flock",
+      "meaning": "[동] 무리 짓다, 모이다\n[명] ① 무리, 떼 ② 털"
+    },
+    {
+      "id": 14,
+      "word": "multiply",
+      "meaning": "[동] ① 곱하다 ② 증가시키다"
+    },
+    {
+      "id": 15,
+      "word": "exalt",
+      "meaning": "[동] ① 승격시키다, 높이다 ② 칭찬하다"
+    },
+    {
+      "id": 16,
+      "word": "furnish",
+      "meaning": "[동] 제공하다, 비치하다"
+    },
+    {
+      "id": 17,
+      "word": "swarm",
+      "meaning": "[명] 떼, 무리\n[동] 떼[무리] 지어 다니다"
+    },
+    {
+      "id": 18,
+      "word": "herd",
+      "meaning": "[명] (짐승의) 떼\n[동] 떼지어 가다"
+    },
+    {
+      "id": 19,
+      "word": "doze",
+      "meaning": "[동] 졸다\n[명] 잠깐 잠"
+    },
+    {
+      "id": 20,
+      "word": "paradigm",
+      "meaning": "[명] ① 예, 모범 ② 이론적 틀, 패러다임"
+    },
+    {
+      "id": 21,
+      "word": "variable",
+      "meaning": "[형] 변하기 쉬운, 가변적인, 변덕스러운\n[명] 변수"
+    },
+    {
+      "id": 22,
+      "word": "gadget",
+      "meaning": "[명] 장치, 도구"
+    },
+    {
+      "id": 23,
+      "word": "egocentric",
+      "meaning": "[형] 자기중심의, 이기적인\n[명] 이기주의자"
+    },
+    {
+      "id": 24,
+      "word": "mass",
+      "meaning": "[명] ① 덩어리 ② 집단, 다수 ③ 대중[pl.]\n④ 질량\n[형] 대량의, 대중적인 [동] 모이다[모으다]"
+    },
+    {
+      "id": 25,
+      "word": "surf",
+      "meaning": "[동] ① 파도타기를 하다\n② (인터넷상에서 정보를) 찾아다니다\n[명] 밀려드는 파도"
+    },
+    {
+      "id": 26,
+      "word": "patriot",
+      "meaning": "[명] 애국자"
+    },
+    {
+      "id": 27,
+      "word": "adorn",
+      "meaning": "[동] 꾸미다, 장식하다"
+    },
+    {
+      "id": 28,
+      "word": "troop",
+      "meaning": "[명] ① 군대, 부대[보통 pl.] ② 무리, 떼"
+    },
+    {
+      "id": 29,
+      "word": "utensil",
+      "meaning": "[명] 도구, 기구"
+    },
+    {
+      "id": 30,
+      "word": "contrive",
+      "meaning": "[동] ① 고안하다, 발명하다\n② (나쁜 일을) 꾸미다"
+    },
+    {
+      "id": 31,
+      "word": "ornament",
+      "meaning": "[명] 장식품, 장신구\n[동] 장식하다"
+    },
+    {
+      "id": 32,
+      "word": "rigid",
+      "meaning": "[형] ① 엄격한, 융통성 없는\n② (사물이) 단단한, 뻣뻣한"
+    },
+    {
+      "id": 33,
+      "word": "patron",
+      "meaning": "[명] ① 보호자, 후원자 ② 단골손님"
+    },
+    {
+      "id": 34,
+      "word": "swamp",
+      "meaning": "[명] 늪\n[동] ① 늪에 빠지게 하다 ② 밀려들다, 쇄도하다"
+    },
+    {
+      "id": 35,
+      "word": "alternative",
+      "meaning": "[명] 대안, 대체\n[형] 대안적인, 대체 가능한"
+    },
+    {
+      "id": 36,
+      "word": "stagnant",
+      "meaning": "[형] 고여 있는, 침체해 있는"
+    },
+    {
+      "id": 37,
+      "word": "multitude",
+      "meaning": "[명] ① 아주 많은 수 ② 일반 대중[군중]"
+    },
+    {
+      "id": 38,
+      "word": "volatile",
+      "meaning": "[형] ① 휘발성의 ② 불안정한, 변덕스러운"
+    },
+    {
+      "id": 39,
+      "word": "garment",
+      "meaning": "[명] 의복"
+    },
+    {
+      "id": 40,
+      "word": "stern",
+      "meaning": "[형] 엄격한"
+    },
+    {
+      "id": 41,
+      "word": "alternate",
+      "meaning": "[형] 번갈아 하는, 번갈아 일어나는\n[동] 교체하다, 번갈아 하다, 번갈아 일어나다"
+    },
+    {
+      "id": 42,
+      "word": "capricious",
+      "meaning": "[형] 변덕스러운"
+    },
+    {
+      "id": 43,
+      "word": "colony",
+      "meaning": "[명] ① 식민지, 집단 거주지\n② (동·식물의) 군집"
+    },
+    {
+      "id": 44,
+      "word": "alienate",
+      "meaning": "[동] 소원하게 만들다"
+    },
+    {
+      "id": 45,
+      "word": "stubborn",
+      "meaning": "[형] 고집 센, 완고한"
+    },
+    {
+      "id": 46,
+      "word": "apparatus",
+      "meaning": "[명] 장치, 기구, 기계"
+    },
+    {
+      "id": 47,
+      "word": "altruism",
+      "meaning": "[명] 이타주의, 이타심"
+    },
+    {
+      "id": 48,
+      "word": "nap",
+      "meaning": "[명] 낮잠\n[동] 낮잠 자다, 졸다"
+    },
+    {
+      "id": 49,
+      "word": "plot",
+      "meaning": "[명] ① 구성, 줄거리 ② 음모\n[동] ① 줄거리를 만들다\n② 음모하다, 몰래 계획하다"
+    },
+    {
+      "id": 50,
+      "word": "stiff",
+      "meaning": "[형] ① 뻣뻣한, 뻑뻑한\n② (사람·행동 등이) 경직된, 딱딱한\n③ (근육이) 뻐근한 ④ 거센, 격렬한"
+    }
+  ]
+}

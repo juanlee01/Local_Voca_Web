@@ -1,0 +1,255 @@
+{
+  "day": 18,
+  "words": [
+    {
+      "id": 1,
+      "word": "utmost",
+      "meaning": "[형] 최고의, 극도의"
+    },
+    {
+      "id": 2,
+      "word": "enhance",
+      "meaning": "[동] 높이다, 향상시키다"
+    },
+    {
+      "id": 3,
+      "word": "victim",
+      "meaning": "[명] ① 피해자, 희생자 ② 제물, 희생양"
+    },
+    {
+      "id": 4,
+      "word": "reluctant",
+      "meaning": "[형] 꺼리는, 싫어하는"
+    },
+    {
+      "id": 5,
+      "word": "knee",
+      "meaning": "[명] 무릎"
+    },
+    {
+      "id": 6,
+      "word": "passive",
+      "meaning": "[형] 수동적인, 소극적인"
+    },
+    {
+      "id": 7,
+      "word": "maximum",
+      "meaning": "[명] 최고, 최대\n[형] 최대의, 최고의"
+    },
+    {
+      "id": 8,
+      "word": "obese",
+      "meaning": "[형] 살찐, 비만인"
+    },
+    {
+      "id": 9,
+      "word": "entertain",
+      "meaning": "[동] ① 즐겁게 하다 ② 대접하다"
+    },
+    {
+      "id": 10,
+      "word": "carbon",
+      "meaning": "[명] 탄소"
+    },
+    {
+      "id": 11,
+      "word": "dizzy",
+      "meaning": "[형] 현기증 나는, 어지러운"
+    },
+    {
+      "id": 12,
+      "word": "infant",
+      "meaning": "[명] 유아\n[형] ① 유아의 ② 초기의"
+    },
+    {
+      "id": 13,
+      "word": "increase",
+      "meaning": "[동] 증가하다, 증가시키다\n[명] 증가"
+    },
+    {
+      "id": 14,
+      "word": "particle",
+      "meaning": "[명] 미립자, 극소(량)"
+    },
+    {
+      "id": 15,
+      "word": "invigorate",
+      "meaning": "[동] ① 기운 나게 하다 ② 활성화하다"
+    },
+    {
+      "id": 16,
+      "word": "reckless",
+      "meaning": "[형] 무모한, 신중하지 못한"
+    },
+    {
+      "id": 17,
+      "word": "spit",
+      "meaning": "[동] (침·피·음식을) 뱉다\n[명] ① 침 ② (침을) 뱉기"
+    },
+    {
+      "id": 18,
+      "word": "hesitate",
+      "meaning": "[동] 망설이다, 주저하다"
+    },
+    {
+      "id": 19,
+      "word": "adolescence",
+      "meaning": "[명] 청소년기, 사춘기"
+    },
+    {
+      "id": 20,
+      "word": "offspring",
+      "meaning": "[명] (사람의) 자손, 자식, (짐승의) 새끼"
+    },
+    {
+      "id": 21,
+      "word": "insomnia",
+      "meaning": "[명] 불면증"
+    },
+    {
+      "id": 22,
+      "word": "molecule",
+      "meaning": "[명] 분자"
+    },
+    {
+      "id": 23,
+      "word": "wrist",
+      "meaning": "[명] 손목"
+    },
+    {
+      "id": 24,
+      "word": "diabetes",
+      "meaning": "[명] 당뇨병"
+    },
+    {
+      "id": 25,
+      "word": "swift",
+      "meaning": "[형] 신속한, 재빠른"
+    },
+    {
+      "id": 26,
+      "word": "acute",
+      "meaning": "[형] ① 뾰족한, 날카로운 ② 격렬한, 극심한"
+    },
+    {
+      "id": 27,
+      "word": "liver",
+      "meaning": "[명] 간"
+    },
+    {
+      "id": 28,
+      "word": "substance",
+      "meaning": "[명] ① 물질, 물체 ② 본질, 실체"
+    },
+    {
+      "id": 29,
+      "word": "augment",
+      "meaning": "[동] 증가시키다, 증가하다"
+    },
+    {
+      "id": 30,
+      "word": "flesh",
+      "meaning": "[명] ① (사람·동물의) 살, 고기\n② (과일의) 과육"
+    },
+    {
+      "id": 31,
+      "word": "prey",
+      "meaning": "[명] 먹이, 희생(자)\n[동] 잡아먹다"
+    },
+    {
+      "id": 32,
+      "word": "vomit",
+      "meaning": "[동] ① 토하다 ② 내뿜다, 분출하다"
+    },
+    {
+      "id": 33,
+      "word": "nimble",
+      "meaning": "[형] ① (동작이) 민첩한, 재빠른\n② 영리한, 빈틈없는"
+    },
+    {
+      "id": 34,
+      "word": "vessel",
+      "meaning": "[명] ① 배, 선박 ② 용기, 그릇 ③ 혈관"
+    },
+    {
+      "id": 35,
+      "word": "coward",
+      "meaning": "[명] 겁쟁이, 비겁자"
+    },
+    {
+      "id": 36,
+      "word": "orphan",
+      "meaning": "[명] 고아\n[형] 고아의"
+    },
+    {
+      "id": 37,
+      "word": "metabolic",
+      "meaning": "[형] 신진대사의"
+    },
+    {
+      "id": 38,
+      "word": "corporal",
+      "meaning": "[형] 신체의, 육체의"
+    },
+    {
+      "id": 39,
+      "word": "timid",
+      "meaning": "[형] 겁 많은, 소심한, 내성적인"
+    },
+    {
+      "id": 40,
+      "word": "artery",
+      "meaning": "[명] 동맥"
+    },
+    {
+      "id": 41,
+      "word": "keen",
+      "meaning": "[형] ① 예리한, 날카로운\n② 열망하는, 열정적인"
+    },
+    {
+      "id": 42,
+      "word": "hospitality",
+      "meaning": "[명] 환대, 후한 대접"
+    },
+    {
+      "id": 43,
+      "word": "juvenile",
+      "meaning": "[형] ① 청소년의 ② 젊은"
+    },
+    {
+      "id": 44,
+      "word": "paramount",
+      "meaning": "[형] ① 주요한 ② 최고의"
+    },
+    {
+      "id": 45,
+      "word": "widow",
+      "meaning": "[명] 미망인, 과부, 홀어미"
+    },
+    {
+      "id": 46,
+      "word": "mount",
+      "meaning": "[동] ① (산·계단을) 오르다 ② 증가하다\n[명] 산"
+    },
+    {
+      "id": 47,
+      "word": "embryo",
+      "meaning": "[명] 태아, 배아"
+    },
+    {
+      "id": 48,
+      "word": "surmount",
+      "meaning": "[동] ① 극복하다\n② (산·언덕 등을) 오르다, 넘다"
+    },
+    {
+      "id": 49,
+      "word": "diffident",
+      "meaning": "[형] 소심한, 자신이 없는"
+    },
+    {
+      "id": 50,
+      "word": "host",
+      "meaning": "[명] ① 주인, 주최자 ② (프로그램) 진행자\n③ 숙주(宿主)\n[동] ① (파티, 모임을) 주최하다, 열다\n② 진행하다"
+    }
+  ]
+}
