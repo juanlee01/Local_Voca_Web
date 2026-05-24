@@ -213,11 +213,11 @@ class StudyView {
     card.className = 'flashcard';
     card.id = 'flashcard-element';
 
-    // Front Face
-    const front = document.createElement('div');
-    front.className = 'card-face card-front';
+    // Single Face
+    const face = document.createElement('div');
+    face.className = 'card-face';
     
-    // Star toggle on card front (top right)
+    // Star toggle on card top right
     const starBtn = document.createElement('button');
     starBtn.className = `star-btn ${stateManager.isStarred(this.dayNum, wordData.id) ? 'starred' : ''}`;
     starBtn.setAttribute('aria-label', '중요 단어 표시');
@@ -239,19 +239,29 @@ class StudyView {
       showToast(stateManager.isStarred(this.dayNum, wordData.id) ? '중요 단어로 등록되었습니다.' : '중요 단어가 해제되었습니다.', 'info');
     };
 
-    front.appendChild(starBtn);
+    face.appendChild(starBtn);
 
     const frontWord = document.createElement('div');
     frontWord.className = 'card-word';
     frontWord.textContent = wordData.word;
-    front.appendChild(frontWord);
+    face.appendChild(frontWord);
+
+    const bottomArea = document.createElement('div');
+    bottomArea.className = 'card-bottom-area';
 
     const hint = document.createElement('div');
     hint.className = 'card-hint';
     hint.textContent = '클릭하여 뜻 확인 (Space)';
-    front.appendChild(hint);
+    bottomArea.appendChild(hint);
 
-    // TTS speaker on front
+    const meaning = document.createElement('div');
+    meaning.className = 'card-meaning';
+    meaning.textContent = wordData.meaning;
+    bottomArea.appendChild(meaning);
+
+    face.appendChild(bottomArea);
+
+    // TTS speaker
     const ttsBtn = document.createElement('button');
     ttsBtn.className = 'tts-btn';
     ttsBtn.title = '발음 듣기';
@@ -269,26 +279,9 @@ class StudyView {
       e.stopPropagation();
       ttsEngine.speak(wordData.word);
     };
-    front.appendChild(ttsBtn);
+    face.appendChild(ttsBtn);
 
-    // Back Face
-    const back = document.createElement('div');
-    back.className = 'card-face card-back';
-
-    const backWord = document.createElement('div');
-    backWord.className = 'card-word';
-    backWord.style.fontSize = '24px';
-    backWord.style.color = 'var(--text-secondary)';
-    backWord.textContent = wordData.word;
-    back.appendChild(backWord);
-
-    const meaning = document.createElement('div');
-    meaning.className = 'card-meaning';
-    meaning.textContent = wordData.meaning;
-    back.appendChild(meaning);
-
-    card.appendChild(front);
-    card.appendChild(back);
+    card.appendChild(face);
     deck.appendChild(card);
     interfaceWrap.appendChild(deck);
 

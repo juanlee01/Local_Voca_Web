@@ -565,9 +565,8 @@ p {
   font-family: 'Outfit', sans-serif;
 }
 
-/* Card Deck & 3D Flip */
+/* Card Deck & Simple Fade */
 .card-deck {
-  perspective: 1000px;
   width: 100%;
   max-width: 500px;
   height: 320px;
@@ -579,13 +578,7 @@ p {
   width: 100%;
   height: 100%;
   position: absolute;
-  transform-style: preserve-3d;
-  transition: transform var(--transition-slow);
   cursor: pointer;
-}
-
-.flashcard.flipped {
-  transform: rotateY(180deg);
 }
 
 .card-face {
@@ -594,7 +587,6 @@ p {
   left: 0;
   width: 100%;
   height: 100%;
-  backface-visibility: hidden;
   border-radius: var(--border-radius-lg);
   border: 1px solid var(--border-color);
   background: var(--bg-surface);
@@ -605,20 +597,11 @@ p {
   align-items: center;
   padding: 40px;
   text-align: center;
-  transition: border-color var(--transition-normal);
+  transition: opacity var(--transition-fast), border-color var(--transition-normal);
 }
 
 .flashcard:hover .card-face {
   border-color: var(--accent-purple);
-}
-
-.card-front {
-  z-index: 2;
-}
-
-.card-back {
-  transform: rotateY(180deg);
-  z-index: 1;
 }
 
 .card-word {
@@ -626,12 +609,28 @@ p {
   font-size: 40px;
   font-weight: 700;
   letter-spacing: -1px;
-  margin-bottom: 12px;
+  margin-bottom: 40px;
+}
+
+.card-bottom-area {
+  position: relative;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .card-hint {
   font-size: 14px;
   color: var(--text-muted);
+  position: absolute;
+  transition: opacity var(--transition-fast);
+}
+
+.flashcard.flipped .card-hint {
+  opacity: 0;
+  pointer-events: none;
 }
 
 .card-meaning {
@@ -639,6 +638,14 @@ p {
   line-height: 1.6;
   white-space: pre-wrap;
   word-break: keep-all;
+  position: absolute;
+  opacity: 0;
+  transition: opacity var(--transition-fast);
+  color: var(--text-primary);
+}
+
+.flashcard.flipped .card-meaning {
+  opacity: 1;
 }
 
 .tts-btn {
@@ -652,7 +659,8 @@ p {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  margin-top: 16px;
+  position: absolute;
+  bottom: 32px;
   transition: all var(--transition-fast);
 }
 
