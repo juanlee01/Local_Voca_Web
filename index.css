@@ -660,7 +660,8 @@ p {
   align-items: center;
   cursor: pointer;
   position: absolute;
-  bottom: 32px;
+  top: 20px;
+  left: 24px;
   transition: all var(--transition-fast);
 }
 
